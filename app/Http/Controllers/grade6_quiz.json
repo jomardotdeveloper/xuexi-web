@@ -1,0 +1,762 @@
+{
+    "Lesson 1 等他回电话 Waiting for him to call back": {
+      "Rate": 3,
+      "Questions": [
+        {
+          "Question": "What does '内' (Nèi) mean in Chinese?",
+          "Options": {
+            "A": "Inside (Correct Answer)",
+            "B": "Content",
+            "C": "Terrace",
+            "D": "Ask"
+          }
+        },
+        {
+          "Question": "What is the meaning of '内人' (Nèi rén) in Chinese?",
+          "Options": {
+            "A": "Inside",
+            "B": "Content",
+            "C": "My wife (Correct Answer)",
+            "D": "Question"
+          }
+        },
+        {
+          "Question": "Which phrase means 'The content of this book is good' in Chinese?",
+          "Options": {
+            "A": "这本书的内人很好 Zhè běn shū de nèi rén hěn hǎo",
+            "B": "这本书的内宝很好 Zhè běn shū de nèi bǎo hěn hǎo",
+            "C": "这本书的内内容很好 Zhè běn shū de nèi nèiróng hěn hǎo",
+            "D": "这本书的内容很好 Zhè běn shū de nèiróng hěn hǎo (Correct Answer)"
+          }
+        },
+        {
+          "Question": "What does '台' (Tái) mean in Chinese?",
+          "Options": {
+            "A": "Ask",
+            "B": "Leave",
+            "C": "Terrace (Correct Answer)",
+            "D": "Cause"
+          }
+        },
+        {
+          "Question": "What is the translation of '讲台' (Jiǎngtái) in Chinese?",
+          "Options": {
+            "A": "Ask platform",
+            "B": "Lecture platform (Correct Answer)",
+            "C": "Content problem",
+            "D": "Telephone number"
+          }
+        },
+        {
+          "Question": "What is the meaning of '因为' (Yīnwèi) in Chinese?",
+          "Options": {
+            "A": "Past",
+            "B": "Cause (Correct Answer)",
+            "C": "Stay",
+            "D": "Over"
+          }
+        },
+        {
+          "Question": "Which sentence means 'Because I am very busy, I am tired' in Chinese?",
+          "Options": {
+            "A": "因为他很聪明所以学得很快 (Yīnwèi tā hěn cōngmíng suǒyǐ xué dé hěn kuài)",
+            "B": "因为太晚了所以我要回家了 (Yīnwèi tài wǎnle suǒyǐ wǒ yào huí jiāle)",
+            "C": "因为我很忙所以我很累 (Yīnwèi wǒ hěn máng suǒyǐ wǒ hěn lèi) (Correct Answer)",
+            "D": "因为我会说中文 (Yīnwèi wǒ huì shuō zhōngwén)"
+          }
+        },
+        {
+          "Question": "What does '问题' (Wèntí) mean in Chinese?",
+          "Options": {
+            "A": "Cause",
+            "B": "Terrace",
+            "C": "Problem (Correct Answer)",
+            "D": "Leave"
+          }
+        },
+        {
+          "Question": "Which phrase means 'Please leave your telephone number' in Chinese?",
+          "Options": {
+            "A": "请你留个电话号码 (Qǐng nǐ liú gè diànhuà hào mǎ) (Correct Answer)",
+            "B": "请问书店在哪儿 (Qǐngwèn shūdiàn zài nǎ'er)",
+            "C": "请你留意这件事 (Qǐng nǐ liúyì zhè jiàn shì)",
+            "D": "请问有什么事吗 (Qǐngwèn yǒu shé me shì ma)"
+          }
+        },
+        {
+          "Question": "What does '过' (Guò) mean in Chinese?",
+          "Options": {
+            "A": "Ask",
+            "B": "Over (Correct Answer)",
+            "C": "Stay",
+            "D": "Inside"
+          }
+        }
+      ]
+    },
+    "Lesson 2 为什么我无法通过 Why Can’t I Get Through": {
+      "Rate": 4,
+      "Questions": [
+        {
+          "Question": "What does '通' (Tōng) mean in Chinese?",
+          "Options": {
+            "A": "Talk",
+            "B": "Through (Correct Answer)",
+            "C": "Bad",
+            "D": "Wrong"
+          }
+        },
+        {
+          "Question": "What is the translation of '电话通了吗' (Diànhuà tōngle ma) in Chinese?",
+          "Options": {
+            "A": "Does the phone work? (Correct Answer)",
+            "B": "Can you get through?",
+            "C": "Does the teacher talk?",
+            "D": "Is the road rotten?"
+          }
+        },
+        {
+          "Question": "What does '讲' (Jiǎng) mean in Chinese?",
+          "Options": {
+            "A": "Take",
+            "B": "Listen",
+            "C": "Talk (Correct Answer)",
+            "D": "Receive"
+          }
+        },
+        {
+          "Question": "Which sentence means 'Don’t talk in class' in Chinese?",
+          "Options": {
+            "A": "他跟你讲了什么 (Tā gēn nǐ jiǎngle shénme)",
+            "B": "上课的时候别讲话 (Shàngkè de shíhòu bié jiǎnghuà) (Correct Answer)",
+            "C": "老师在讲台上讲课 (Lǎoshī zài jiǎngtái shàng jiǎngkè)",
+            "D": "别吃坏的东西 (Bié chī huài de dōngxī)"
+          }
+        },
+        {
+          "Question": "What does '坏' (Huài) mean in Chinese?",
+          "Options": {
+            "A": "Rotten (Correct Answer)",
+            "B": "Listen",
+            "C": "Talk",
+            "D": "Wrong"
+          }
+        },
+        {
+          "Question": "What is the translation of '电话坏了吗' (Diànhuà huàile ma) in Chinese?",
+          "Options": {
+            "A": "Is the phone bad? (Correct Answer)",
+            "B": "Is the phone working?",
+            "C": "Is the road bad?",
+            "D": "Is the content rotten?"
+          }
+        },
+        {
+          "Question": "What does '接' (Jiē) mean in Chinese?",
+          "Options": {
+            "A": "Take",
+            "B": "Listen",
+            "C": "Continue",
+            "D": "Receive (Correct Answer)"
+          }
+        },
+        {
+          "Question": "Which phrase means 'Nobody answered the phone' in Chinese?",
+          "Options": {
+            "A": "没人接电话 (Méi rén jiē diànhuà) (Correct Answer)",
+            "B": "李先生刚说完，张先生又接着说 (Lǐ xiānshēng gāng shuō wán, zhāng xiānshēng yòu jiēzhe shuō)",
+            "C": "电话还没通 (Diànhuà hái méi tōng)",
+            "D": "别吃坏的东西 (Bié chī huài de dōngxī)"
+          }
+        },
+        {
+          "Question": "What does '错' (Cuò) mean in Chinese?",
+          "Options": {
+            "A": "Through",
+            "B": "Bad",
+            "C": "Listen",
+            "D": "Wrong (Correct Answer)"
+          }
+        },
+        {
+          "Question": "What is the translation of '你有没有听见什么事' (Nǐ yǒu méiyǒu tīngjiàn shénme shì) in Chinese?",
+          "Options": {
+            "A": "Have you heard the bell?",
+            "B": "Have you heard anything? (Correct Answer)",
+            "C": "What do you want to hear?",
+            "D": "Do you want to talk?"
+          }
+        }
+      ]
+    },
+    "Lesson 3 到我家来玩 Come to My Home": {
+      "Rate": 5,
+      "Questions": [
+        {
+          "Question": "What does '周末' (Zhōumò) mean in Chinese?",
+          "Options": {
+            "A": "Address",
+            "B": "Location",
+            "C": "Weekend (Correct Answer)",
+            "D": "Weekday"
+          }
+        },
+        {
+          "Question": "What is the translation of '请告诉我你的地址' (Qǐng gàosù wǒ nǐ dì dìzhǐ) in Chinese?",
+          "Options": {
+            "A": "Please tell me your address. (Correct Answer)",
+            "B": "Where do you live?",
+            "C": "Do you like this place?",
+            "D": "What is your location?"
+          }
+        },
+        {
+          "Question": "What does '地址' (Dìzhǐ) mean in Chinese?",
+          "Options": {
+            "A": "Weekend",
+            "B": "Address (Correct Answer)",
+            "C": "Location",
+            "D": "Inconvenient"
+          }
+        },
+        {
+          "Question": "What is the meaning of '视屏' (Shìpíng) in Chinese?",
+          "Options": {
+            "A": "Shiping",
+            "B": "Convenience",
+            "C": "Video (Correct Answer)",
+            "D": "Miss"
+          }
+        },
+        {
+          "Question": "Which sentence means 'I miss my family, so I often go home on weekends' in Chinese?",
+          "Options": {
+            "A": "会不会太麻烦你们？(Huì bù huì tài máfan nǐmen?)",
+            "B": "这个周末你到我家来玩两天吧！(Zhège zhōumò nǐ dào wǒjiā lái wán liǎng tiān ba!)",
+            "C": "是的，我很想家，所以我周末常回去。(Shì de, wǒ hěn xiǎng jiā, suǒyǐ wǒ zhōumò cháng huíqù.) (Correct Answer)",
+            "D": "你一个人住在外面，一定很不方便。(Nǐ yīgè rén zhù zài wàimiàn, yīdìng hěn bù fāngbiàn.)"
+          }
+        },
+        {
+          "Question": "What is the translation of '不用了，给我你家的地址，我一定找得到' (Bùyòngle, gěi wǒ nǐ jiā dì dìzhǐ, wǒ yīdìng zhǎo dédào) in Chinese?",
+          "Options": {
+            "A": "No, you don't need to. If you give me your address, I'm sure I can find it. (Correct Answer)",
+            "B": "Yes, please come to my house this weekend.",
+            "C": "I'll pick you up this weekend.",
+            "D": "Is it convenient to stay in your house?"
+          }
+        },
+        {
+          "Question": "What does '方便' (Fāngbiàn) mean in Chinese?",
+          "Options": {
+            "A": "Trouble",
+            "B": "Weekend",
+            "C": "Convenient (Correct Answer)",
+            "D": "Inconvenient"
+          }
+        },
+        {
+          "Question": "What is the meaning of '太好了，我很喜欢打球' (Tài hǎole, wǒ hěn xǐhuān dǎqiú) in Chinese?",
+          "Options": {
+            "A": "Good. I like to play ball. (Correct Answer)",
+            "B": "Can you come to my house this weekend?",
+            "C": "It must be very inconvenient to live by yourself.",
+            "D": "It's not. My parents welcome my friends."
+          }
+        },
+        {
+          "Question": "Which sentence means 'Is it convenient to stay in your house?' in Chinese?",
+          "Options": {
+            "A": "太好了，我很喜欢打球。(Tài hǎole, wǒ hěn xǐhuān dǎqiú)",
+            "B": "会不会太麻烦你们？（Huì bù huì tài máfan nǐmen?）",
+            "C": "住在你家方便吗？（Zhù zài nǐ jiā fāngbiàn ma?）(Correct Answer)",
+            "D": "周末我来接你。（Zhōumò wǒ lái jiē nǐ.）"
+          }
+        },
+        {
+          "Question": "What does '客气' （Kèqì）mean in Chinese?",
+          "Options": {
+            "A": "Video",
+            "B": "Shiping",
+            "C": "Miss",
+            "D": "Polite (Correct Answer)"
+          }
+        }
+      ]
+    },
+    "Lesson 4 迷路 Getting Lost": {
+      "Rate": 4,
+      "Questions": [
+        {
+          "Question": "What does '像' (Xiàng) mean in Chinese?",
+          "Options": {
+            "A": "Remember",
+            "B": "Lost",
+            "C": "Spellbound",
+            "D": "Like (Correct Answer)"
+          }
+        },
+        {
+          "Question": "What is the translation of '用笔记下来' (Yòng bǐjì xiàlái) in Chinese?",
+          "Options": {
+            "A": "Remember to use a pen",
+            "B": "Please take it down (Correct Answer)",
+            "C": "Use a pen to write it down",
+            "D": "Remember to write it down"
+          }
+        },
+        {
+          "Question": "What does '记' (Jì) mean in Chinese?",
+          "Options": {
+            "A": "Remember (Correct Answer)",
+            "B": "Lost",
+            "C": "Spellbound",
+            "D": "Enchanted"
+          }
+        },
+        {
+          "Question": "Which sentence means 'Don't forget to call me' in Chinese?",
+          "Options": {
+            "A": "用笔记下来 Yòng bǐjì xiàlái",
+            "B": "你记得那个人吗？Nǐ jìdé nàgè rén ma?",
+            "C": "别忘记给我打电话 Bié wàngjì gěi wǒ dǎ diànhuà (Correct Answer)",
+            "D": "他很迷电脑 Tā hěn mí diànnǎo"
+          }
+        },
+        {
+          "Question": "What is the meaning of '迷' (Mí) in Chinese?",
+          "Options": {
+            "A": "Spellbound (Correct Answer)",
+            "B": "Remember",
+            "C": "Lost",
+            "D": "Charmed"
+          }
+        },
+        {
+          "Question": "Which phrase means 'He is infatuated with the computer' in Chinese?",
+          "Options": {
+            "A": "他让电脑迷住了 Tā ràng diànnǎo mí zhùle",
+            "B": "他很喜欢唱歌 Tā hěn xǐhuān chànggē (Correct Answer)",
+            "C": "他好像很累 Tā hǎoxiàng hěn lèi",
+            "D": "他记住了 Tā jì zhùle"
+          }
+        },
+        {
+          "Question": "What does '忘记' (Wàngjì) mean in Chinese?",
+          "Options": {
+            "A": "Remember",
+            "B": "Forget (Correct Answer)",
+            "C": "Like",
+            "D": "Spellbound"
+          }
+        },
+        {
+          "Question": "What is the translation of '你家很好找' (Nǐ jiā hěn hǎo zhǎo) in Chinese?",
+          "Options": {
+            "A": "You are very punctual",
+            "B": "Your house is easy to find (Correct Answer)",
+            "C": "You found it without any problems",
+            "D": "Little Wang had trouble finding it"
+          }
+        },
+        {
+          "Question": "What does '聪明' (Cōngmíng) mean in Chinese?",
+          "Options": {
+            "A": "Lost",
+            "B": "Charmed",
+            "C": "Spellbound",
+            "D": "Smart (Correct Answer)"
+          }
+        },
+        {
+          "Question": "Which sentence means 'Last time I got lost because you were talking to me all the time, and I forgot to turn' in Chinese?",
+          "Options": {
+            "A": "上次小王来，找了半天，也没找到 (Shàng cì xiǎo wáng lái, zhǎole bàntiān, yě méi zhǎodào)",
+            "B": "那是因为你一直跟我说话，所以我忘了转弯。（Nà shì yīnwèi nǐ yīzhí gēn wǒ shuōhuà, suǒyǐ wǒ wàngle zhuǎnwān.） (Correct Answer)",
+            "C": "你好像忘记了 (Nǐ hǎoxiàng wàngjìle）",
+            "D": "你一号就找到了 (Nǐ yī hào jiù zhǎodàole）"
+          }
+        }
+      ]
+    },
+    "Lesson 5 我如何到达那里 How do I Get There?": {
+      "Rate": 7,
+      "Questions": [
+        {
+          "Question": "What does '行' (Xíng) mean in Chinese?",
+          "Options": {
+            "A": "Buy",
+            "B": "Road",
+            "C": "Company （Correct Answer)",
+            "D": "Take"
+          }
+        },
+        {
+          "Question": "Which sentence means 'Such conduct is wrong.' in Chinese?",
+          "Options": {
+            "A": "你到银行去做什么？(Nǐ dào yínháng qù zuò shénme?)",
+            "B": "多练习, 自然就会了。(Duō liànxí, zìrán jiù huìle.)",
+            "C": "这种行为是不对的。(Zhè zhǒng xíngwéi shì bùduì de.) （Correct Answer)",
+            "D": "学生淡然因该用功。(Xuéshēng dànrán yīn gāi yònggōng.)"
+          }
+        },
+        {
+          "Question": "What does '然' (Rán) mean in Chinese?",
+          "Options": {
+            "A": "But （Correct Answer)",
+            "B": "Always",
+            "C": "Usually",
+            "D": "First"
+          }
+        },
+        {
+          "Question": "Which phrase means 'Take a taxi.' in Chinese?",
+          "Options": {
+            "A": "打车 （Dǎchē) (Correct Answer)",
+            "B": "坐公共汽车 (Zuò gōnggòng qìchē)",
+            "C": "骑自行车 (Qí zìxíngchē)",
+            "D": "走路 （Zǒulù）"
+          }
+        },
+        {
+          "Question": "What is the meaning of '坐飞机' (Zuò fēijī) in Chinese?",
+          "Options": {
+            "A": "Go by airplane (Correct Answer)",
+            "B": "Take a taxi",
+            "C": "Walk",
+            "D": "Drive a car"
+          }
+        },
+        {
+          "Question": "What does '然后' (Ránhòu) mean in Chinese?",
+          "Options": {
+            "A": "Always",
+            "B": "But then",
+            "C": "Then (Correct Answer)",
+            "D": "First"
+          }
+        },
+        {
+          "Question": "Which sentence means 'I will take a bus to the airport and then go by airplane.' in Chinese?",
+          "Options": {
+            "A": "我坐飞机去上海。(Wǒ zuò fēijī qù shànghǎi.)",
+            "B": "我会坐公共汽车然后坐飞机。(Wǒ huì zuò gōnggòng qìchē ránhòu zuò fēijī.) (Correct Answer)",
+            "C": "我打车去机场。(Wǒ dǎchē qù jīchǎng.)",
+            "D": "我走路去机场。(Wǒ zǒulù qù jīchǎng.)"
+          }
+        },
+        {
+          "Question": "What is the translation of '我怎么去这里' (Wǒ zěnme qù zhèlǐ) in Chinese?",
+          "Options": {
+            "A": "How do I get there? (Correct Answer)",
+            "B": "Where is this?",
+            "C": "How can I help you?",
+            "D": "I want to go there."
+          }
+        },
+        {
+          "Question": "What does '公共汽车' (Gōnggòng qìchē) mean in Chinese?",
+          "Options": {
+            "A": "Bus (Correct Answer)",
+            "B": "Taxi",
+            "C": "Airport",
+            "D": "Walk"
+          }
+        },
+        {
+          "Question": "Which phrase means 'You can take the subway.' in Chinese?",
+          "Options": {
+            "A": "你可以坐飞机。(Nǐ kěyǐ zuò fēijī.)",
+            "B": "你可以坐火车。(Nǐ kěyǐ zuò huǒchē.)",
+            "C": "你可以坐地铁。(Nǐ kěyǐ zuò dìtiě.) (Correct Answer)",
+            "D": "你可以坐出租车。(Nǐ kěyǐ zuò chūzūchē.)"
+          }
+        }
+      ]
+    },
+    "Lesson 6 他是卖报的 He Sells Newspapers": {
+      "Rate": 5,
+      "Questions": [
+        {
+          "Question": "What does '地方' (Dìfāng) mean in Chinese?",
+          "Options": {
+            "A": "Sell",
+            "B": "Newspaper",
+            "C": "Place (Correct Answer)",
+            "D": "Buy"
+          }
+        },
+        {
+          "Question": "Which sentence means 'He is a newspaper seller.' in Chinese?",
+          "Options": {
+            "A": "他是老板 (Tā shì lǎobǎn)",
+            "B": "他是卖报的 (Tā shì mài bào de) (Correct Answer)",
+            "C": "他卖报的很多 (Tā mài bào de hěn duō)",
+            "D": "他买了一份报 (Tā mǎile yīfèn bào)"
+          }
+        },
+        {
+          "Question": "What does '对不起' (Duìbuqǐ) mean in Chinese?",
+          "Options": {
+            "A": "Sell newspapers",
+            "B": "Excuse me (Correct Answer)",
+            "C": "Buy a newspaper",
+            "D": "Please"
+          }
+        },
+        {
+          "Question": "Which phrase means 'He sells many newspapers.' in Chinese?",
+          "Options": {
+            "A": "他卖报的很多 (Tā mài bào de hěn duō) (Correct Answer)",
+            "B": "他是老板 (Tā shì lǎobǎn)",
+            "C": "他买了一份报 (Tā mǎile yīfèn bào)",
+            "D": "对不起，我不明白 (Duìbuqǐ, wǒ bù míngbái)"
+          }
+        },
+        {
+          "Question": "What is the meaning of '给你' (Gěi nǐ) in Chinese?",
+          "Options": {
+            "A": "Here you go (Correct Answer)",
+            "B": "Excuse me",
+            "C": "Buy a newspaper",
+            "D": "Sell newspapers"
+          }
+        },
+        {
+          "Question": "What does '明白' (Míngbái) mean in Chinese?",
+          "Options": {
+            "A": "Sell newspapers",
+            "B": "Excuse me",
+            "C": "Understand (Correct Answer)",
+            "D": "Buy a newspaper"
+          }
+        },
+        {
+          "Question": "Which sentence means 'He is the boss.' in Chinese?",
+          "Options": {
+            "A": "他是卖报的 (Tā shì mài bào de)",
+            "B": "他是老板 (Tā shì lǎobǎn) (Correct Answer)",
+            "C": "他买了一份报 (Tā mǎile yīfèn bào)",
+            "D": "对不起，我不明白 (Duìbuqǐ, wǒ bù míngbái)"
+          }
+        },
+        {
+          "Question": "What is the translation of '他们买了两份报' (Tāmen mǎile liǎng fèn bào) in Chinese?",
+          "Options": {
+            "A": "They sell two newspapers.",
+            "B": "They bought two newspapers. (Correct Answer)",
+            "C": "They understand two newspapers.",
+            "D": "They apologize for two newspapers."
+          }
+        },
+        {
+          "Question": "What does '很多' (Hěnduō) mean in Chinese?",
+          "Options": {
+            "A": "Understand",
+            "B": "Apologize",
+            "C": "Many (Correct Answer)",
+            "D": "Excuse me"
+          }
+        },
+        {
+          "Question": "Which phrase means 'I don't understand.' in Chinese?",
+          "Options": {
+            "A": "他是老板 (Tā shì lǎobǎn)",
+            "B": "对不起，我不明白 (Duìbuqǐ, wǒ bù míngbái) (Correct Answer)",
+            "C": "他们买了两份报 (Tāmen mǎile liǎng fèn bào)",
+            "D": "他卖报的很多 (Tā mài bào de hěn duō)"
+          }
+        }
+      ]
+    },
+    "Lesson 7 我认识他三年了 I've Known Him for Three Years": {
+      "Rate": 6,
+      "Questions": [
+        {
+          "Question": "What does '什么时候' (Shénme shíhòu) mean in Chinese?",
+          "Options": {
+            "A": "Why",
+            "B": "When (Correct Answer)",
+            "C": "How long",
+            "D": "How many"
+          }
+        },
+        {
+          "Question": "Which sentence means 'I've known him for three years.' in Chinese?",
+          "Options": {
+            "A": "我认识他三年了 (Wǒ rènshí tā sān niánle) (Correct Answer)",
+            "B": "我有三个朋友 (Wǒ yǒu sān gè péngyǒu)",
+            "C": "我住在这里三年了 (Wǒ zhù zài zhèlǐ sān niánle)",
+            "D": "我买了三本书 (Wǒ mǎile sān běn shū)"
+          }
+        },
+        {
+          "Question": "What does '朋友' (Péngyǒu) mean in Chinese?",
+          "Options": {
+            "A": "Three",
+            "B": "Book",
+            "C": "Friend (Correct Answer)",
+            "D": "Know"
+          }
+        },
+        {
+          "Question": "Which phrase means 'I've lived here for three years.' in Chinese?",
+          "Options": {
+            "A": "我认识他三年了 (Wǒ rènshí tā sān niánle)",
+            "B": "我有三个朋友 (Wǒ yǒu sān gè péngyǒu)",
+            "C": "我住在这里三年了 (Wǒ zhù zài zhèlǐ sān niánle) (Correct Answer)",
+            "D": "我买了三本书 (Wǒ mǎile sān běn shū)"
+          }
+        },
+        {
+          "Question": "What is the meaning of '有' (Yǒu) in Chinese?",
+          "Options": {
+            "A": "Three",
+            "B": "Book",
+            "C": "Have (Correct Answer)",
+            "D": "Friend"
+          }
+        },
+        {
+          "Question": "What does '认识' (Rènshí) mean in Chinese?",
+          "Options": {
+            "A": "Three",
+            "B": "Know (Correct Answer)",
+            "C": "Have",
+            "D": "Friend"
+          }
+        },
+        {
+          "Question": "Which sentence means 'I have three friends.' in Chinese?",
+          "Options": {
+            "A": "我认识他三年了 (Wǒ rènshí tā sān niánle)",
+            "B": "我有三个朋友 (Wǒ yǒu sān gè péngyǒu) (Correct Answer)",
+            "C": "我住在这里三年了 (Wǒ zhù zài zhèlǐ sān niánle)",
+            "D": "我买了三本书 (Wǒ mǎile sān běn shū)"
+          }
+        },
+        {
+          "Question": "What is the translation of '我买了三本书' (Wǒ mǎile sān běn shū) in Chinese?",
+          "Options": {
+            "A": "I've known him for three years.",
+            "B": "I have three friends.",
+            "C": "I've lived here for three years.",
+            "D": "I bought three books. (Correct Answer)"
+          }
+        },
+        {
+          "Question": "What does '买' (Mǎi) mean in Chinese?",
+          "Options": {
+            "A": "Three",
+            "B": "Book (Correct Answer)",
+            "C": "Have",
+            "D": "Friend"
+          }
+        },
+        {
+          "Question": "Which phrase means 'Why do you want to go there?' in Chinese?",
+          "Options": {
+            "A": "我认识他三年了 (Wǒ rènshí tā sān niánle)",
+            "B": "我有三个朋友 (Wǒ yǒu sān gè péngyǒu)",
+            "C": "你为什么要去那里？(Nǐ wèishénme yào qù nàlǐ?) (Correct Answer)",
+            "D": "我买了三本书 (Wǒ mǎile sān běn shū)"
+          }
+        }
+      ]
+    },
+    "Lesson 8 他多高？How Tall Is He?": {
+      "Rate": 7,
+      "Questions": [
+        {
+          "Question": "What does '多' (Duō) mean in Chinese?",
+          "Options": {
+            "A": "How",
+            "B": "How many",
+            "C": "Tall (Correct Answer)",
+            "D": "Short"
+          }
+        },
+        {
+          "Question": "Which sentence means 'He is 175 centimeters tall.' in Chinese?",
+          "Options": {
+            "A": "他多高？(Tā duō gāo?) (Correct Answer)",
+            "B": "他有175块钱。(Tā yǒu 175 kuài qián.)",
+            "C": "他是医生。(Tā shì yīshēng.)",
+            "D": "他不高。(Tā bù gāo.)"
+          }
+        },
+        {
+          "Question": "What does '医生' (Yīshēng) mean in Chinese?",
+          "Options": {
+            "A": "How",
+            "B": "How many",
+            "C": "Doctor (Correct Answer)",
+            "D": "Tall"
+          }
+        },
+        {
+          "Question": "Which phrase means 'He is not tall.' in Chinese?",
+          "Options": {
+            "A": "他多高？(Tā duō gāo?)",
+            "B": "他有175块钱。(Tā yǒu 175 kuài qián.)",
+            "C": "他是医生。(Tā shì yīshēng.)",
+            "D": "他不高。(Tā bù gāo.) (Correct Answer)"
+          }
+        },
+        {
+          "Question": "What is the meaning of '有' (Yǒu) in Chinese?",
+          "Options": {
+            "A": "How",
+            "B": "How many (Correct Answer)",
+            "C": "Doctor",
+            "D": "Tall"
+          }
+        },
+        {
+          "Question": "What does '块' (Kuài) mean in Chinese?",
+          "Options": {
+            "A": "How",
+            "B": "How many",
+            "C": "Dollar (Correct Answer)",
+            "D": "Tall"
+          }
+        },
+        {
+          "Question": "Which sentence means 'He has 175 dollars.' in Chinese?",
+          "Options": {
+            "A": "他多高？(Tā duō gāo?)",
+            "B": "他有175块钱。(Tā yǒu 175 kuài qián.) (Correct Answer)",
+            "C": "他是医生。(Tā shì yīshēng.)",
+            "D": "他不高。(Tā bù gāo.)"
+          }
+        },
+        {
+          "Question": "What is the translation of '他不高。' (Tā bù gāo.) in Chinese?",
+          "Options": {
+            "A": "How tall is he?",
+            "B": "He has 175 dollars.",
+            "C": "He is not tall. (Correct Answer)",
+            "D": "He is a doctor."
+          }
+        },
+        {
+          "Question": "What does '不' (Bù) mean in Chinese?",
+          "Options": {
+            "A": "How",
+            "B": "How many",
+            "C": "Not (Correct Answer)",
+            "D": "Tall"
+          }
+        },
+        {
+          "Question": "Which phrase means 'How much money do you have?' in Chinese?",
+          "Options": {
+            "A": "他多高？(Tā duō gāo?)",
+            "B": "你有多少钱？(Nǐ yǒu duōshǎo qián?) (Correct Answer)",
+            "C": "他是医生。(Tā shì yīshēng.)",
+            "D": "他不高。(Tā bù gāo.)"
+          }
+        }
+      ]
+    }
+  }

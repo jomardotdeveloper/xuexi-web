@@ -1,0 +1,254 @@
+{
+    "lessons": [
+      {
+        "lesson": "Lesson 1 等他回电话 Waiting for him to call back",
+        "rate": 5,
+        "sentences": [
+          {
+            "chinese": "喂，我是林大中，请问王先生在吗？",
+            "pinyin": "Wèi, wǒ shì Lín Dàzhōng, qǐng wèn Wáng Xiānshēng zài ma?",
+            "english": "Mr. Lin: Hello, this is Lin DaZhong. Is Mr. Wang in?"
+          },
+          {
+            "chinese": "对不起，他不在，我是他太太，请问有什么事吗？",
+            "pinyin": "Duìbùqǐ, tā bù zài, wǒ shì tā tài tài, qǐng wèn yǒu shénme shì ma?",
+            "english": "Mrs. Wang: I’m sorry, he’s not in. I am his wife. May I ask what you are calling about?"
+          },
+          {
+            "chinese": "王太太，你好，是这样的，因为有位同学从台北来，所以我请了几位朋友，明天晚上六点钟，在梅花饭店吃饭。",
+            "pinyin": "Wáng Tàitài, nǐ hǎo, shì zhè yàng de, yīnwèi yǒu wèi tóngxué cóng Táiběi lái, suǒyǐ wǒ qǐngle jǐ wèi péngyou, míngtiān wǎnshang liù diǎnzhōng, zài Méihuā Fàndiàn chīfàn.",
+            "english": "Mr. Lin: How are you, Mrs. Wang? The fact is that an old classmate came all the way from Taipei, so I am inviting some friends to a dinner at the Plum Blossoms Restaurant tomorrow evening at six. I wonder if Mr. Wang could join us?"
+          },
+          {
+            "chinese": "因该么有问题，不不过还是得问问他。请你留个电话号码，号码？",
+            "pinyin": "Yīngāi méi yǒu wèntí, bù bùguò háishì děi wèn wèn tā. Qǐng nǐ liú gè diànhuà hàomǎ, hàomǎ?",
+            "english": "Mrs. Wang: There shouldn’t be any problem, but I should still ask him about it when he gets back. Could you please leave your telephone number?"
+          },
+          {
+            "chinese": "我的电话是7214385。",
+            "pinyin": "Wǒ de diànhuà shì 7214385.",
+            "english": "Mr. Lin: My number is 7214385."
+          },
+          {
+            "chinese": "好的，等他回来我会告诉他，请他回你的电话。",
+            "pinyin": "Hǎo de, děng tā huílái wǒ huì gàosù tā, qǐng tā huí nǐ de diànhuà.",
+            "english": "Mrs. Wang: Ok, I’ll tell him to call you back when he returns."
+          },
+          {
+            "chinese": "谢谢你，我等他回话。",
+            "pinyin": "Xièxiè nǐ, wǒ děng tā huí huà.",
+            "english": "Mr. Lin: Thanks a lot, I’ll wait for him to call back."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 2 为什么我无法通过 Why Can’t I Get Through",
+        "rate": 4,
+        "sentences": [
+          {
+            "chinese": "怎么打不通呢?",
+            "pinyin": "Zěnme dǎ bùtōng ne?",
+            "english": "Mr. Wang: Why can’t I get through?"
+          },
+          {
+            "chinese": "是在讲话中吗？",
+            "pinyin": "Shì zài jiǎnghuà zhōng ma?",
+            "english": "Mrs. Wang: Is it because someone’s on the line?"
+          },
+          {
+            "chinese": "不是",
+            "pinyin": "Bù shì",
+            "english": "Mr. Wang: No"
+          },
+          {
+            "chinese": "是电话坏了吗？",
+            "pinyin": "Shì diànhuà huài le ma?",
+            "english": "Mrs. Wang: Maybe the telephone isn’t working."
+          },
+          {
+            "chinese": "也不是, 是没人接，会不就是电话号码错了",
+            "pinyin": "Yě bù shì, shì méi rén jiē, huì bù jiù shì diànhuà hàomǎ cuò le",
+            "english": "Mr. Wang: No, no one is at home. Could it be that you’ve got the wrong number?"
+          },
+          {
+            "chinese": "因该不会",
+            "pinyin": "Yīngāi bù huì",
+            "english": "Mrs. Wang: It shouldn’t."
+          },
+          {
+            "chinese": "那么我再试试看",
+            "pinyin": "Nàme wǒ zài shì shì kàn",
+            "english": "Mr. Wang: I’ll try one more time."
+          },
+          {
+            "chinese": "喂！",
+            "pinyin": "Wèi!",
+            "english": "Mr. Lin: Hello!"
+          },
+          {
+            "chinese": "是大众吗？我视频啊。怎么刚才没人打电话？",
+            "pinyin": "Shì dàzhòng ma? Wǒ shì píngā. Zěnme gāngcái méi rén dǎ diànhuà?",
+            "english": "Mr. Wang: Is this DaZhong? This is Shiping. Why didn’t anybody answer the phone just now?"
+          },
+          {
+            "chinese": "刚才我在洗手间，一听见电话铃声，就赶快出来，可是你已经挂断了。",
+            "pinyin": "Gāngcái wǒ zài xǐshǒujiān, yì tīngjiàn diànhuà língshēng, jiù gǎnkuài chūlái, kěshì nǐ yǐjīng guàduàn le.",
+            "english": "Mr. Lin: I was in the bathroom. I hurried to answer the phone when it rang, but you hang up."
+          },
+          {
+            "chinese": "对不起，我是要告诉你我明天准时到",
+            "pinyin": "Duìbùqǐ, wǒ shì yào gàosù nǐ wǒ míngtiān zhǔnshídào",
+            "english": "Mr. Wang: I’m sorry, I just wanted to tell you that I’ll be there on time tomorrow."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 3 到我家来玩 Come to My Home",
+        "rate": 6,
+        "sentences": [
+          {
+            "chinese": "你一个人住在外面，一定很不方便",
+            "pinyin": "Nǐ yígèrén zhù zài wàimiàn, yídìng hěn bù fāngbiàn",
+            "english": "DaZhong: It must be very inconvenient to live by yourself?"
+          },
+          {
+            "chinese": "是的，我很想家，所以我周末常回去",
+            "pinyin": "Shìde, wǒ hěn xiǎng jiā, suǒyǐ wǒ zhōumò cháng huíqù",
+            "english": "Shiping: Yes, I miss my family, so I often go home on weekends."
+          },
+          {
+            "chinese": "这个周末你到我家来玩两天吧！",
+            "pinyin": "Zhège zhōumò nǐ dào wǒ jiā lái wán liǎng tiān ba!",
+            "english": "DaZhong: Can you come to my house this weekend?"
+          },
+          {
+            "chinese": "会不会太麻烦你们？",
+            "pinyin": "Huì bù huì tài máfan nǐmen?",
+            "english": "Shiping: Would it be much trouble for you?"
+          },
+          {
+            "chinese": "不久的，你不要客气，我父母亲很观影客人",
+            "pinyin": "Bù jiǔ de, nǐ bù yào kèqì, wǒ fùmǔqīn hěn guānyǐng kèrén",
+            "english": "DaZhong: It’s not. My parents welcome my friends."
+          },
+          {
+            "chinese": "住在你家方便吗",
+            "pinyin": "Zhù zài nǐ jiā fāngbiàn ma?",
+            "english": "Shiping: Is it convenient to stay in your house?"
+          },
+          {
+            "chinese": "非常方便，我家有好几间卧房，客厅，饭厅也不小，要是天气好的话还可以在院子里打球。",
+            "pinyin": "Fēicháng fāngbiàn, wǒ jiā yǒu hǎojǐ jiān wòfáng, kètīng, fàntīng yě bù xiǎo, yàoshi tiānqì hǎo dehuà hái kěyǐ zài yuànzi lǐ dǎqiú.",
+            "english": "DaZhong: Very convenient. We have many bedrooms. The living room and the dining room are big too. If the weather is nice, we can also play ball in the yard."
+          },
+          {
+            "chinese": "太好了，我很喜欢打球。",
+            "pinyin": "Tài hǎo le, wǒ hěn xǐhuān dǎqiú.",
+            "english": "Shiping: Good. I like to play ball."
+          },
+          {
+            "chinese": "那么周末我来接你",
+            "pinyin": "Nàme zhōumò wǒ lái jiē nǐ",
+            "english": "DaZhong: Then, I will pick you up this weekend."
+          },
+          {
+            "chinese": "不用了，给我你家的地址，我一定找得到",
+            "pinyin": "Bùyòng le, gěi wǒ nǐ jiā de dìzhǐ, wǒ yídìng zhǎo dédào",
+            "english": "Shiping: No, you don’t need to. If you give me your address, I’m sure I can find it."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 4 迷路 Getting Lost",
+        "rate": 5,
+        "sentences": [
+          {
+            "chinese": "欢迎，欢迎，你来的很准时",
+            "pinyin": "Huānyíng, huānyíng, nǐ lái de hěn zhǔnshí",
+            "english": "DaZhong: Welcome! Welcome! You are very punctual."
+          },
+          {
+            "chinese": "你家很好找，我一号就到了",
+            "pinyin": "Nǐ jiā hěn hǎo zhǎo, wǒ yī hào jiù zhǎo dàole",
+            "english": "Shiping: Your house is easy to find. I found it without any problems."
+          },
+          {
+            "chinese": "上次小王来，找了半天，也没找到",
+            "pinyin": "Shàng cì xiǎo wáng lái, zhǎole bàntiān, yě méi zhǎodào",
+            "english": "DaZhong: Last time, little Wang had a lot of trouble finding it."
+          },
+          {
+            "chinese": "这么说，我比他聪明，是不是？",
+            "pinyin": "Zhème shuō, wǒ bǐ tā cōngmíng, shì bù shì?",
+            "english": "Shiping: Then I’m smarter, right?"
+          },
+          {
+            "chinese": "上次迷路的是，你好像忘记了",
+            "pinyin": "Shàng cì mílù de shì, nǐ hǎoxiàng wàngjì le",
+            "english": "DaZhong: You seem to have forgotten your last experience."
+          },
+          {
+            "chinese": "那是因为你一直跟我说话，所以我忘了转弯。",
+            "pinyin": "Nà shì yīnwèi nǐ yīzhí gēn wǒ shuōhuà, suǒyǐ wǒ wàngle zhuǎnwān.",
+            "english": "Shiping: Last time I got lost because you were talking to me all the time, and I forgot to turn."
+          },
+          {
+            "chinese": "不是吧，是在改左转的时候，你右转了。",
+            "pinyin": "Bù shì ba, shì zài gǎi zuǒzhuǎn de shíhou, nǐ yòu zhuǎnle.",
+            "english": "DaZhong: No, I think you turned the wrong way."
+          },
+          {
+            "chinese": "真的吗？我怎么不记得了",
+            "pinyin": "Zhēn de ma? Wǒ zěnme bù jìdé le",
+            "english": "Shiping: Really? Funny, I don’t remember that."
+          },
+          {
+            "chinese": "快进去吧！我父母亲都等着看你呢。",
+            "pinyin": "Kuàijìnqù ba! Wǒ fùmǔqīn dōu děngzhe kàn nǐ ne.",
+            "english": "DaZhong: Come on. My parents are waiting to meet you."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 5 我如何到达那里 How do I Get There?",
+        "rate": 7,
+        "sentences": [
+          {
+            "chinese": "先生，请问到第一银行怎么走？",
+            "pinyin": "Xiānshēng, qǐng wèndào dì yī yínháng zěnme zǒu?",
+            "english": "DaZhong: Sir, can you tell me how I can get to the First National Bank?"
+          },
+          {
+            "chinese": "你先向右走，到十字路口左转，然后再一直走过两个红路灯就到中山北路了。",
+            "pinyin": "Nǐ xiān xiàng yòu zǒu, dào shízì lùkǒu zuǒzhuǎn, ránhòu zài yìzhí zǒuguò liǎnggè hóng lùdēng jiùdào zhōngshānběilù le.",
+            "english": "Shiping: Turn to the right first. Turn left at the first intersection. Then walk two blocks, and you’ll be at Zhongshan North Road."
+          },
+          {
+            "chinese": "第一银行在中山北路吗？",
+            "pinyin": "Dì yī yínháng zài zhōngshānběilù ma?",
+            "english": "DaZhong: Is the First National Bank on Zhongshan North Road?"
+          },
+          {
+            "chinese": "是的，在一家百货公司对面",
+            "pinyin": "Shì de, zài yìjiā bǎihuògōngsī duìmiàn",
+            "english": "Shiping: Yes, it’s right in front of a department store."
+          },
+          {
+            "chinese": "我知道了，那家百货公司很大",
+            "pinyin": "Wǒ zhīdàole, nà jiā bǎihuògōngsī hěndà",
+            "english": "DaZhong: I know. That department store is very big."
+          },
+          {
+            "chinese": "不过，过马路要小心，那条路上车子很多",
+            "pinyin": "Búguò, guò mǎlù yào xiǎoxīn, nà tiáo lùshang chēzi hěnduō",
+            "english": "Shiping: But be careful when you cross the street. There are a lot of cars."
+          },
+          {
+            "chinese": "好的，我走地下道，谢谢你",
+            "pinyin": "Hǎode, wǒ zǒudexiàdào, xièxiènǐ",
+            "english": "DaZhong: Ok, I’ll take the underground passage. Thank you!"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,154 @@
+{
+    "Assessment Quiz": {
+      "1": {
+        "Question": "Which phrase means 'The content of this book is good' in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "这本书的内人很好 Zhè běn shū de nèi rén hěn hǎo",
+          "B": "这本书的内宝很好 Zhè běn shū de nèi bǎo hěn hǎo",
+          "C": "这本书的内内容很好 Zhè běn shū de nèi nèiróng hěn hǎo",
+          "D": "这本书的内容很好 Zhè běn shū de nèiróng hěn hǎo (Correct Answer)"
+        }
+      },
+      "2": {
+        "Question": "Which sentence means 'Because I am very busy, I am tired' in Chinese?",
+        "Rate": 5,
+        "Options": {
+          "A": "因为他很聪明所以学得很快 (Yīnwèi tā hěn cōngmíng suǒyǐ xué dé hěn kuài)",
+          "B": "因为太晚了所以我要回家了 (Yīnwèi tài wǎnle suǒyǐ wǒ yào huí jiāle)",
+          "C": "因为我很忙所以我很累 (Yīnwèi wǒ hěn máng suǒyǐ wǒ hěn lèi) (Correct Answer)",
+          "D": "因为我会说中文 (Yīnwèi wǒ huì shuō zhōngwén)"
+        }
+      },
+      "3": {
+        "Question": "What does '问题' (Wèntí) mean in Chinese?",
+        "Rate": 2,
+        "Options": {
+          "A": "Cause",
+          "B": "Terrace",
+          "C": "Problem (Correct Answer)",
+          "D": "Leave"
+        }
+      },
+      "4": {
+        "Question": "Which sentence means 'Don’t talk in class' in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "他跟你讲了什么 (Tā gēn nǐ jiǎngle shénme)",
+          "B": "上课的时候别讲话 (Shàngkè de shíhòu bié jiǎnghuà) (Correct Answer)",
+          "C": "老师在讲台上讲课 (Lǎoshī zài jiǎngtái shàng jiǎngkè)",
+          "D": "别吃坏的东西 (Bié chī huài de dōngxī)"
+        }
+      },
+      "5": {
+        "Question": "What is the translation of '电话通了吗' (Diànhuà tōngle ma) in Chinese?",
+        "Rate": 3,
+        "Options": {
+          "A": "Does the phone work? (Correct Answer)",
+          "B": "Can you get through?",
+          "C": "Does the teacher talk?",
+          "D": "Is the road rotten?"
+        }
+      },
+      "6": {
+        "Question": "Which phrase means 'Nobody answered the phone' in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "没人接电话 (Méi rén jiē diànhuà) (Correct Answer)",
+          "B": "李先生刚说完，张先生又接着说 (Lǐ xiānshēng gāng shuō wán, zhāng xiānshēng yòu jiēzhe shuō)",
+          "C": "电话还没通 (Diànhuà hái méi tōng)",
+          "D": "别吃坏的东西 (Bié chī huài de dōngxī)"
+        }
+      },
+      "7": {
+        "Question": "What is the translation of '请告诉我你的地址' (Qǐng gàosù wǒ nǐ dì dìzhǐ) in Chinese?",
+        "Rate": 5,
+        "Options": {
+          "A": "Please tell me your address. (Correct Answer)",
+          "B": "Where do you live?",
+          "C": "Do you like this place?",
+          "D": "What is your location?"
+        }
+      },
+      "8": {
+        "Question": "What does '地址' (Dìzhǐ) mean in Chinese?",
+        "Rate": 2,
+        "Options": {
+          "A": "Weekend",
+          "B": "Address (Correct Answer)",
+          "C": "Location",
+          "D": "Inconvenient"
+        }
+      },
+      "9": {
+        "Question": "Which sentence means 'Is it convenient to stay in your house?' in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "太好了，我很喜欢打球。(Tài hǎole, wǒ hěn xǐhuān dǎqiú)",
+          "B": "会不会太麻烦你们？（Huì bù huì tài máfan nǐmen?）",
+          "C": "住在你家方便吗？（Zhù zài nǐ jiā fāngbiàn ma?）(Correct Answer)",
+          "D": "周末我来接你。（Zhōumò wǒ lái jiē nǐ.）"
+        }
+      },
+      "10": {
+        "Question": "What is the translation of '用笔记下来' (Yòng bǐjì xiàlái) in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "Remember to use a pen",
+          "B": "Please take it down (Correct Answer)",
+          "C": "Use a pen to write it down",
+          "D": "Remember to write it down"
+        }
+      },
+      "11": {
+        "Question": "Which sentence means 'Don't forget to call me' in Chinese?",
+        "Rate": 5,
+        "Options": {
+          "A": "用笔记下来 Yòng bǐjì xiàlái",
+          "B": "你记得那个人吗？Nǐ jìdé nàgè rén ma?",
+          "C": "别忘记给我打电话 Bié wàngjì gěi wǒ dǎ diànhuà (Correct Answer)",
+          "D": "他很迷电脑 Tā hěn mí diànnǎo"
+        }
+      },
+      "12": {
+        "Question": "What does '聪明' (Cōngmíng) mean in Chinese?",
+        "Rate": 2,
+        "Options": {
+          "A": "Lost",
+          "B": "Charmed",
+          "C": "Spellbound",
+          "D": "Smart (Correct Answer)"
+        }
+      },
+      "13": {
+        "Question": "Which sentence means 'Last time I got lost because you were talking to me all the time, and I forgot to turn' in Chinese?",
+        "Rate": 5,
+        "Options": {
+          "A": "上次小王来，找了半天，也没找到 (Shàng cì xiǎo wáng lái, zhǎole bàntiān, yě méi zhǎodào)",
+          "B": "那是因为你一直跟我说话，所以我忘了转弯。（Nà shì yīnwèi nǐ yīzhí gēn wǒ shuōhuà, suǒyǐ wǒ wàngle zhuǎnwān.） (Correct Answer)",
+          "C": "你好像忘记了 (Nǐ hǎoxiàng wàngjìle）",
+          "D": "你一号就找到了 (Nǐ yī hào jiù zhǎodàole）"
+        }
+      },
+      "14": {
+        "Question": "Which sentence means 'Such conduct is wrong.' in Chinese?",
+        "Rate": 6,
+        "Options": {
+          "A": "你到银行去做什么？(Nǐ dào yínháng qù zuò shénme?)",
+          "B": "多练习, 自然就会了。(Duō liànxí, zìrán jiù huìle.)",
+          "C": "这种行为是不对的。(Zhè zhǒng xíngwéi shì bùduì de.) （Correct Answer)",
+          "D": "学生淡然因该用功。(Xuéshēng dànrán yīn gāi yònggōng.)"
+        }
+      },
+      "15": {
+        "Question": "What does '然' (Rán) mean in Chinese?",
+        "Rate": 2,
+        "Options": {
+          "A": "But (Correct Answer)",
+          "B": "Know",
+          "C": "Turn",
+          "D": "Green"
+        }
+      }
+    }
+  }

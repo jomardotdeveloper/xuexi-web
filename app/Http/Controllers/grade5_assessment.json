@@ -1,0 +1,154 @@
+{
+    "Assessment Quiz": {
+      "Question 1": {
+        "Question": "How would you ask, 'How many students do you have?' in Chinese?",
+        "Rate": 2,
+        "Options": {
+          "A": "你有什么笔？ (Nǐ yǒu shén me bǐ?)",
+          "B": "你有几个学生？ (Nǐ yǒu jǐ gè xuéshēng?) - Correct Answer",
+          "C": "几本书？ (Jǐ běn shū?)",
+          "D": "你有几支笔？ (Nǐ yǒu jǐ zhī bǐ?)"
+        }
+      },
+      "Question 2": {
+        "Question": "Which of the following is the Chinese phrase for 'elementary school'?",
+        "Rate": 1,
+        "Options": {
+          "A": "大学 (Dàxué)",
+          "B": "中学 (Zhōngxué)",
+          "C": "小学 (Xiǎoxué) - Correct Answer",
+          "D": "绝对 (Juéduì)"
+        }
+      },
+      "Question 3": {
+        "Question": "How do you ask, 'What kind of pen do you have?' in Chinese?",
+        "Rate": 3,
+        "Options": {
+          "A": "你有什么笔 (Nǐ yǒu shén me bǐ) - Correct Answer",
+          "B": "你有几支笔 (Nǐ yǒu jǐ zhī bǐ)",
+          "C": "你有几本书 (Nǐ yǒu jǐ běn shū)",
+          "D": "几支笔 (Jǐ zhī bǐ)"
+        }
+      },
+      "Question 4": {
+        "Question": "How would you say, 'My books are very few in number' in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "我的书数量非常多 (Wǒ de shū shù liàng fēicháng duō)",
+          "B": "我的书数量很少 (Wǒ de shū shù liàng hěn shǎo) - Correct Answer",
+          "C": "我有多少本书？ (Wǒ yǒu duōshǎo běn shū?)",
+          "D": "我的书在学校里找不到 (Wǒ de shū zài xuéxiàolǐ zhǎobúdào)"
+        }
+      },
+      "Question 5": {
+        "Question": "What is the Chinese phrase for 'How many books does Mr. Wang have?'",
+        "Rate": 4,
+        "Options": {
+          "A": "你有多少本书？ (Nǐ yǒu duōshǎo běn shū?)",
+          "B": "王先生有多少本书？ (Wáng xiānsheng yǒu duōshǎo běn shū?) - Correct Answer",
+          "C": "这所学校真的很大。 (Zhè suǒ xuéxiào zhēnde hěndà.)",
+          "D": "王小姐真的很忙。 (Wáng xiǎojiě zhēnde hěnmáng.)"
+        }
+      },
+      "Question 6": {
+        "Question": "How would you say, 'This school is very big, isn't it?' in Chinese?",
+        "Rate": 4,
+        "Options": {
+          "A": "是的 (Shìde)",
+          "B": "不，不是 (Bù, bùshì)",
+          "C": "这所学校真的很大 (Zhè suǒ xué xiào zhēnde hěndà) - Correct Answer",
+          "D": "不，我没有书 (Bù, wǒ méiyǒu shū)"
+        }
+      },
+      "Question 7": {
+        "Question": "How would you ask, 'What kind of pen do you have?' in Chinese?",
+        "Rate": 5,
+        "Options": {
+          "A": "你用什么样的笔写字？ (Nǐ yòng shénmeyàng de bǐ xiězì?) - Correct Answer",
+          "B": "我用铅笔写字。 (Wǒ yòng qiānbǐ xiězì.)",
+          "C": "他也很聪明，也很勤奋。 (Tā yě hěn cōng míng, yě hěn qín fèn.)",
+          "D": "你有几个学生？ (Nǐ yǒu jǐ gè xuéshēng?)"
+        }
+      },
+      "Question 8": {
+        "Question": "What does '孩子们比成年人更努力' (Hái zi men bǐ chéng nián rén gèng nǔ lì) mean?",
+        "Rate": 6,
+        "Options": {
+          "A": "The children are lazier than adults.",
+          "B": "The children work even harder than adults. - Correct Answer",
+          "C": "There are many children.",
+          "D": "Each child has a pen."
+        }
+      },
+      "Question 9": {
+        "Question": "How do you ask, 'Are you going or am I?' in Chinese?",
+        "Rate": 3,
+        "Options": {
+          "A": "他很睿智 (Tā hěn ruìzhì)",
+          "B": "你是去还是我 (Nǐ shì qù hái shì wǒ) - Correct Answer",
+          "C": "我的学生非常努力 (Wǒ de xuéshēng fēicháng nǔ lì)",
+          "D": "他真的很愚蠢 (Tā zhēndehěn yúchǔn)"
+        }
+      },
+      "Question 10": {
+        "Question": "What does 'May I ask your name?' mean in Chinese?",
+        "Rate": 3,
+        "Options": {
+          "A": "你的名字是什么？ (Nǐ de míngzì shì shénme) - Correct Answer",
+          "B": "请坐。(Qǐng zuò)",
+          "C": "请问贵姓？(Qǐngwèn guìxìng)",
+          "D": "他要我干什么？(Tā yào wǒ gàn shén me)"
+        }
+      },
+      "Question 11": {
+        "Question": "How do you say 'Please introduce us to each other' in Chinese?",
+        "Rate": 2,
+        "Options": {
+          "A": "请问你有没有笔？(Qǐngwèn nǐ yǒu méiyǒu bǐ?)",
+          "B": "让我互相介绍一下。(Ràng wǒ hùxiāng jièshào yīxià.) - Correct Answer",
+          "C": "我也不认识他。(Wǒ yě bù rènshí tā.)",
+          "D": "他给了我一本书。(Tā gěile wǒ yī běn shū.)"
+        }
+      },
+      "Question 12": {
+        "Question": "What does '他要我干什么?' (Tā yào wǒ gànshénme) mean?",
+        "Rate": 4,
+        "Options": {
+          "A": "What does he want from me? - Correct Answer",
+          "B": "What is his name?",
+          "C": "May I ask if you have a pen?",
+          "D": "Please sit down."
+        }
+      },
+      "Question 13": {
+        "Question": "Which phrase means 'I have already studied for a year'?",
+        "Rate": 6,
+        "Options": {
+          "A": "我刚学习了两个月 (Wǒ gāng xuéxíle liǎng gè yuè)",
+          "B": "我还没学 (Wǒ hái méi xué)",
+          "C": "我已经学习了一年 (Wǒ yǐjīng xuéxíle yī nián) - Correct Answer",
+          "D": "我不会去有关系吗？(Wǒ bù huì qù yǒu guānxì ma?)"
+        }
+      },
+      "Question 14": {
+        "Question": "What does '他已经在这里待了五个月' (Tā yǐjīng zài zhèlǐ dàile wǔ gè yuè) imply?",
+        "Rate": 7,
+        "Options": {
+          "A": "He has been here for five minutes.",
+          "B": "He has been here for five hours.",
+          "C": "He has been here for five days.",
+          "D": "He has been here for five months. - Correct Answer"
+        }
+      },
+      "Question 15": {
+        "Question": "What is the English translation of '我们已经见过面了'? (Wǒmen yǐjīng jiànguò miànle)",
+        "Rate": 8,
+        "Options": {
+          "A": "We have already seen a movie.",
+          "B": "We have already met each other. - Correct Answer",
+          "C": "We have already traveled together.",
+          "D": "We have already eaten dinner."
+        }
+      }
+    }
+}

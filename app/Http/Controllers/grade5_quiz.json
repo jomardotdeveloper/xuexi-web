@@ -1,0 +1,382 @@
+{
+    "Lesson 1 Quiz 几个学生": {
+      "Rate": 2,
+      "Questions": [
+        {
+          "Question": "What does '你有笔吗?' (Nǐ yǒu bǐ ma?) mean?",
+          "Options": {
+            "A": "How are you?",
+            "B": "Do you have a book?",
+            "C": "How many books do you have?",
+            "D": "Do you have a pen? (Correct Answer)"
+          }
+        },
+        {
+          "Question": "What does '几支笔' (Jǐ zhī bǐ) mean?",
+          "Options": {
+            "A": "How many books do you have?",
+            "B": "How many pens are there? (Correct Answer)",
+            "C": "Do you have a book?",
+            "D": "Do you have a pen?"
+          }
+        },
+        {
+          "Question": "How would you ask, 'How many students do you have?' in Chinese?",
+          "Options": {
+            "A": "你有什么笔？ (Nǐ yǒu shén me bǐ?)",
+            "B": "你有几个学生？ (Nǐ yǒu jǐ gè xuéshēng?) - Correct Answer",
+            "C": "几本书？ (Jǐ běn shū?)",
+            "D": "你有几支笔？ (Nǐ yǒu jǐ zhī bǐ?)"
+          }
+        },
+        {
+          "Question": "What does '他一定是老师' (Tā yī dìng shì lǎo shī) mean?",
+          "Options": {
+            "A": "He is definitely a teacher. (Correct Answer)",
+            "B": "He is not a teacher.",
+            "C": "He may be a teacher.",
+            "D": "He might be a student."
+          }
+        },
+        {
+          "Question": "Which of the following is the Chinese phrase for 'elementary school'?",
+          "Options": {
+            "A": "大学 (Dàxué)",
+            "B": "中学 (Zhōngxué)",
+            "C": "小学 (Xiǎoxué) - Correct Answer",
+            "D": "绝对 (Juéduì)"
+          }
+        },
+        {
+          "Question": "How would you say, 'Not necessarily, some are boys, and some are girls' in Chinese?",
+          "Options": {
+            "A": "不一定，有男的，有女的 (Bù yīdìng, yǒu nán de, yǒu nǚ de) - Correct Answer",
+            "B": "他一定会说中文 (Tā yīdìng huì shuō zhōngwén)",
+            "C": "他一定是老师 (Tā yīdìng shì lǎo shī)",
+            "D": "不一定，都是男孩 (Bù yīdìng, dōu shì nán hái)"
+          }
+        },
+        {
+          "Question": "What does '个个学生都用功' (Gè gè xué shēng dōu yòng gōng) mean?",
+          "Options": {
+            "A": "Each student is lazy.",
+            "B": "Each student works hard. (Correct Answer)",
+            "C": "There are many students.",
+            "D": "Each student has a pen."
+          }
+        },
+        {
+          "Question": "How do you ask, 'What kind of pen do you have?' in Chinese?",
+          "Options": {
+            "A": "你有什么笔 (Nǐ yǒu shén me bǐ) (Correct Answer)",
+            "B": "你有几支笔 (Nǐ yǒu jǐ zhī bǐ)",
+            "C": "你有几本书 (Nǐ yǒu jǐ běn shū)",
+            "D": "几支笔 (Jǐ zhī bǐ)"
+          }
+        },
+        {
+          "Question": "What does '小学校' (Xiǎo xué xiào) mean?",
+          "Options": {
+            "A": "Small school",
+            "B": "Middle school (Correct Answer)",
+            "C": "University",
+            "D": "Big school"
+          }
+        },
+        {
+          "Question": "How do you say, 'I have twelve students' in Chinese?",
+          "Options": {
+            "A": "他一定是老师 (Tā yīdìng shì lǎo shī)",
+            "B": "你有几支笔 (Nǐ yǒu jǐ zhī bǐ)",
+            "C": "我有十二个学生 (Wǒ yǒu shí èr gè xuéshēng) (Correct Answer)",
+            "D": "几本书 (Jǐ běn shū)"
+          }
+        }
+      ]
+    },
+    "Lesson 2 Quiz 学校 真大": {
+      "Rate": 3,
+      "Questions": [
+        {
+          "Question": "What does '一栋房子' (Yī dòng fángzi) mean?",
+          "Options": {
+            "A": "A school",
+            "B": "A house (Correct Answer)",
+            "C": "A book",
+            "D": "A pen"
+          }
+        },
+        {
+          "Question": "How would you describe a house that is '非常好' (fēicháng hǎo)?",
+          "Options": {
+            "A": "Very big",
+            "B": "Very expensive",
+            "C": "Very good (Correct Answer)",
+            "D": "Very old"
+          }
+        },
+        {
+          "Question": "What does '那所学校很大' (Nà suǒ xuéxiào hěn dà) mean?",
+          "Options": {
+            "A": "This school is big.",
+            "B": "That school is big. (Correct Answer)",
+            "C": "The school is small.",
+            "D": "The school is good."
+          }
+        },
+        {
+          "Question": "Which phrase means 'a lot of'?",
+          "Options": {
+            "A": "很少 (Hěn shǎo)",
+            "B": "多少 (Duōshǎo)",
+            "C": "很多 (Hěnduō) (Correct Answer)",
+            "D": "或多 (Huòduō)"
+          }
+        },
+        {
+          "Question": "How would you say, 'My books are very few in number' in Chinese?",
+          "Options": {
+            "A": "我的书数量非常多 (Wǒ de shū shù liàng fēicháng duō)",
+            "B": "我的书数量很少 (Wǒ de shū shù liàng hěn shǎo) (Correct Answer)",
+            "C": "我有多少本书？ (Wǒ yǒu duōshǎo běn shū?)",
+            "D": "我的书在学校里找不到 (Wǒ de shū zài xuéxiàolǐ zhǎobúdào)"
+          }
+        },
+        {
+          "Question": "What is the Chinese phrase for 'How many books does Mr. Wang have?'",
+          "Options": {
+            "A": "你有多少本书？ (Nǐ yǒu duōshǎo běn shū?)",
+            "B": "王先生有多少本书？ (Wáng xiānsheng yǒu duōshǎo běn shū?) (Correct Answer)",
+            "C": "这所学校真的很大。 (Zhè suǒ xuéxiào zhēnde hěndà.)",
+            "D": "王小姐真的很忙。 (Wáng xiǎojiě zhēnde hěnmáng.)"
+          }
+        },
+        {
+          "Question": "How would you say, 'This pen is really good for writing' in Chinese?",
+          "Options": {
+            "A": "他的书数量非常多 (Tā de shū shù liàng fēicháng duō)",
+            "B": "这支笔真的很适合写字 (Zhè zhī bǐ zhēnde hěn shìhé xiě zì) (Correct Answer)",
+            "C": "不，我没有笔。 (Bù, wǒ méiyǒu bǐ)",
+            "D": "这本书在学校里找不到。 (Zhè běn shū zài xuéxiàolǐ zhǎobúdào)"
+          }
+        },
+        {
+          "Question": "What does '还行 (Háixíng)' mean?",
+          "Options": {
+            "A": "Very good (Correct Answer)",
+            "B": "Not good",
+            "C": "OK",
+            "D": "Excellent"
+          }
+        },
+        {
+          "Question": "How would you say, 'This school is very big, isn't it?' in Chinese?",
+          "Options": {
+            "A": "是的 (Shìde)",
+            "B": "不，不是 (Bù, bùshì)",
+            "C": "这所学校真的很大 (Zhè suǒ xué xiào zhēnde hěndà) (Correct Answer)",
+            "D": "不，我没有书 (Bù, wǒ méiyǒu shū)"
+          }
+        },
+        {
+          "Question": "What is the Chinese phrase for 'Foreigner'?",
+          "Options": {
+            "A": "外国 (Wàiguó)",
+            "B": "外国人 (Wàiguórén) (Correct Answer)",
+            "C": "出，外国 (Chū, Wàiguó)",
+            "D": "大学 (Dàxué)"
+          }
+        }
+      ]
+    },
+    "Lesson 3 Quiz 差不多": {
+      "Rate": 4,
+      "Questions": [
+        {
+          "Question": "What does '他比我聪明' (Tā bǐ wǒ cōngmíng) mean?",
+          "Options": {
+            "A": "He is definitely a student.",
+            "B": "You are smarter than I am. (Correct Answer)",
+            "C": "He is definitely a teacher.",
+            "D": "He might be a student."
+          }
+        },
+        {
+          "Question": "How would you ask, 'What kind of pen do you have?' in Chinese?",
+          "Options": {
+            "A": "你用什么样的笔写字？ (Nǐ yòng shénmeyàng de bǐ xiězì?) (Correct Answer)",
+            "B": "我用铅笔写字。 (Wǒ yòng qiānbǐ xiězì.)",
+            "C": "他也很聪明，也很勤奋。 (Tā yě hěn cōng míng, yě hěn qín fèn.)",
+            "D": "你有几个学生？ (Nǐ yǒu jǐ gè xuéshēng?)"
+          }
+        },
+        {
+          "Question": "What does '孩子们比成年人更努力' (Hái zi men bǐ chéng nián rén gèng nǔ lì) mean?",
+          "Options": {
+            "A": "The children are lazier than adults.",
+            "B": "The children work even harder than adults. (Correct Answer)",
+            "C": "There are many children.",
+            "D": "Each child has a pen."
+          }
+        },
+        {
+          "Question": "How do you ask, 'Are you going or am I?' in Chinese?",
+          "Options": {
+            "A": "他很睿智 (Tā hěn ruìzhì)",
+            "B": "你是去还是我 (Nǐ shì qù hái shì wǒ) (Correct Answer)",
+            "C": "我的学生非常努力 (Wǒ de xuéshēng fēicháng nǔ lì)",
+            "D": "他真的很愚蠢 (Tā zhēndehěn yúchǔn)"
+          }
+        },
+        {
+          "Question": "What does '他也很聪明，也很勤奋' (Tā yě hěn cōng míng, yě hěn qín fèn) mean?",
+          "Options": {
+            "A": "He is very smart and hard-working too. (Correct Answer)",
+            "B": "He is very stupid.",
+            "C": "Smart people can do stupid things.",
+            "D": "My Chinese is inferior to yours."
+          }
+        },
+        {
+          "Question": "How would you say, 'The teacher is busier than the students' in Chinese?",
+          "Options": {
+            "A": "老师比学生更忙 (Lǎo shī bǐ xuéshēng gèngmáng) (Correct Answer)",
+            "B": "There are more boys than girls. (Nán hái bǐ nǚ hái duō)",
+            "C": "The teacher did not teach this word. (Lǎoshī méiyǒu jiào zhègecí)",
+            "D": "This pen is really good for writing. (Zhè zhī bǐ zhēn de hěn shì hé xiě zì)"
+          }
+        },
+        {
+          "Question": "What does '我用铅笔写字' (Wǒ yòng qiānbǐ xiězì) mean?",
+          "Options": {
+            "A": "His pen is like mine.",
+            "B": "You and I are students.",
+            "C": "I use a pencil to write. (Correct Answer)",
+            "D": "He is really stupid."
+          }
+        },
+        {
+          "Question": "What does '外观，外观' (Wàiguān, wàiguān) mean?",
+          "Options": {
+            "A": "The two books are almost alike.",
+            "B": "The children are lazier than adults.",
+            "C": "Outlook, appearance. (Correct Answer)",
+            "D": "He is definitely a teacher."
+          }
+        },
+        {
+          "Question": "What does '我的学生非常努力' (Wǒ de xuéshēng fēicháng nǔ lì) mean?",
+          "Options": {
+            "A": "You are smarter than I am.",
+            "B": "My students work very hard. (Correct Answer)",
+            "C": "He is really stupid.",
+            "D": "The teacher is busier than the students."
+          }
+        },
+        {
+          "Question": "How would you say, 'There are fewer boys than girls' in Chinese?",
+          "Options": {
+            "A": "男孩比女孩少 (Nánhái bǐ nǚhái shǎo）(Correct Answer)",
+            "B": "女孩和男孩一样努力(Nǚ hái hé nán hái yí yàng nǔ lì)",
+            "C": "你和我史学史那个 (Nǐ hé wǒ shì xuéshēng)",
+            "D": "他的书比我多. (Tā de shū bǐ wǒ duō)"
+          }
+        }
+      ]
+    },
+    "Lesson 4 Quiz": {
+      "Rate" : 6,
+      "Questions": [
+        {
+          "Question": "What does '请坐' (Qǐng zuò) mean?",
+          "Options": {
+            "A": "Please say.",
+            "B": "May I ask?",
+            "C": "Please sit down. (Correct Answer)",
+            "D": "Please have some tea."
+          }
+        },
+        {
+          "Question": "What does '请问你有没有笔？(Qǐngwèn nǐ yǒu méiyǒu bǐ)' mean?",
+          "Options": {
+            "A": "May I ask if you have a book?",
+            "B": "May I ask if you have a pen? (Correct Answer)",
+            "C": "Please introduce us to each other.",
+            "D": "What is your name?"
+          }
+        },
+        {
+          "Question": "What is the meaning of '我姓王' (Wǒ xìng wáng)?",
+          "Options": {
+            "A": "My first name is Wang.",
+            "B": "My last name is Wang. (Correct Answer)",
+            "C": "My name is Wang.",
+            "D": "I am Wang."
+          }
+        },
+        {
+          "Question": "What does '他要我干什么?' (Tā yào wǒ gànshénme) mean?",
+          "Options": {
+            "A": "What does he want from me? (Correct Answer)",
+            "B": "What is his name?",
+            "C": "May I ask if you have a pen?",
+            "D": "Please sit down."
+          }
+        },
+        {
+          "Question": "What is the translation of '那位女士是谁？(Nà wèi nǚshì shì shéi)'",
+          "Options": {
+            "A": "Who is that lady? (Correct Answer)",
+            "B": "Please have some tea.",
+            "C": "May I ask if you have a pen?",
+            "D": "What is your name?"
+          }
+        },
+        {
+          "Question": "What does '很高兴认识你' (Hěn gāoxìng rènshí nǐ)mean?",
+          "Options": {
+            "A": "Please introduce us to each other.",
+            "B": "I'm very pleased to meet you. (Correct Answer)",
+            "C": "He is not very happy.",
+            "D": "Do you know her?"
+          }
+        },
+        {
+          "Question": "What is the translation of '我也不认识他' (Wǒ yě bù rènshí tā)?",
+          "Options": {
+            "A": "I don't know him either. (Correct Answer)",
+            "B": "Please sit down.",
+            "C": "Pleased to meet you.",
+            "D": "Who is that lady?"
+          }
+        },
+        {
+          "Question": "What is the meaning of '我们有十五名教师' (Wǒmen yǒu shíwǔ míng jiàoshī)?",
+          "Options": {
+            "A": "We have fifteen students.",
+            "B": "We have fifteen schools.",
+            "C": "We have fifteen teachers. (Correct Answer)",
+            "D": "We have fifteen books."
+          }
+        },
+        {
+          "Question": "What does 'May I ask your name?' mean in Chinese?",
+          "Options": {
+            "A": "我可以问你的名字吗？ (Wǒ kěyǐ wèn nǐ de míngzì ma?) (Correct Answer)",
+            "B": "你叫什么名字？ (Nǐ jiào shénme míngzì?)",
+            "C": "你姓什么？ (Nǐ xìng shénme?)",
+            "D": "你好吗？ (Nǐ hǎo ma?)"
+          }
+        },
+        {
+          "Question": "What is the Chinese phrase for 'What is his job?'",
+          "Options": {
+            "A": "他是做什么的？ (Tā shì zuò shénme de?) (Correct Answer)",
+            "B": "他叫什么名字？ (Tā jiào shénme míngzì?)",
+            "C": "他姓什么？ (Tā xìng shénme?)",
+            "D": "你好吗？ (Nǐ hǎo ma?)"
+          }
+        }
+      ]
+    }
+  }

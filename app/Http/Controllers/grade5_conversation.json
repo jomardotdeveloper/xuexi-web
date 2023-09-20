@@ -1,0 +1,214 @@
+{
+    "lessons": [
+      {
+        "lesson": "Lesson 1 几个学生 How many students?",
+        "rate": 2,
+        "sentences": [
+          {
+            "chinese": "你有几个学生？",
+            "pinyin": "Nǐ yǒu jǐ ge xuéshēng?",
+            "english": "How many students do you have?"
+          },
+          {
+            "chinese": "我有二十五个学生。",
+            "pinyin": "Wǒ yǒu èrshí wǔ ge xuéshēng.",
+            "english": "I have twenty-five students."
+          },
+          {
+            "chinese": "他们都是大人吧？",
+            "pinyin": "Tāmen dōu shì dàrén ba?",
+            "english": "Are they all adults?"
+          },
+          {
+            "chinese": "不一定，有大人，也有小孩。",
+            "pinyin": "Bù yīdìng, yǒu dàrén, yě yǒu xiǎo hái.",
+            "english": "Not all of them. Some are adults and some are children."
+          },
+          {
+            "chinese": "有女生吗？",
+            "pinyin": "Yǒu nǚshēng ma?",
+            "english": "Are there any female students?"
+          },
+          {
+            "chinese": "有，一半是女生，一半是男生。",
+            "pinyin": "Yǒu, yī bàn shì nǚ shēng, yī bàn shì nán shēng.",
+            "english": "Yes, half are girls and half are boys."
+          },
+          {
+            "chinese": "你有几支笔？",
+            "pinyin": "Nǐ yǒu jǐ zhī bǐ?",
+            "english": "How many pens do you have?"
+          },
+          {
+            "chinese": "你有几支笔？",
+            "pinyin": "Nǐ yǒu jǐ zhī bǐ?",
+            "english": "How many pens do you have?"
+          },
+          {
+            "chinese": "我有六支笔。",
+            "pinyin": "Wǒ yǒu liù zhī bǐ.",
+            "english": "I have six pens."
+          },
+          {
+            "chinese": "都是毛笔吗？",
+            "pinyin": "Dōu shì máobǐ ma?",
+            "english": "Are they all writing brushes?"
+          },
+          {
+            "chinese": "不都是，两支是毛笔，四支原子笔。",
+            "pinyin": "Bù dōu shì, liǎng zhī shì máo bǐ, sì zhī yuánzǐ bǐ.",
+            "english": "Not all of them. Two of them are writing brushes, and four are ballpoint pens."
+          },
+          {
+            "chinese": "你有几本书？",
+            "pinyin": "Nǐ yǒu jǐ běn shū?",
+            "english": "How many books do you have?"
+          },
+          {
+            "chinese": "我有二十本书，一半是中文的。",
+            "pinyin": "Wǒ yǒu èrshí běn shū, yī bàn shì zhōngwén de.",
+            "english": "I have twenty books. Half are in Chinese, and half are in English."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 2 学校 真大 The school is big",
+        "rate": 3,
+        "sentences": [
+          {
+            "chinese": "这所学校有多少学生？",
+            "pinyin": "Zhè suǒ xuéxiào yǒu duōshǎo xuéshēng?",
+            "english": "How many students are there in this school?"
+          },
+          {
+            "chinese": "有两千五百多个学生。",
+            "pinyin": "Yǒu liǎng qiān wǔ bǎi duō gè xuéshēng.",
+            "english": "There are about 2,500 students."
+          },
+          {
+            "chinese": "这所学校真不小。",
+            "pinyin": "Zhè suǒ xuéxiào zhēn bù xiǎo.",
+            "english": "This school is quite big."
+          },
+          {
+            "chinese": "是啊，这是所大学校。",
+            "pinyin": "Shì a, zhè shì suǒ dà xuéxiào.",
+            "english": "Yes, this is a big school."
+          },
+          {
+            "chinese": "学校里有没有外国学生？",
+            "pinyin": "Xuéxiào lǐ yǒu méiyǒu wàiguó xuéshēng?",
+            "english": "Are there any foreign students in this school?"
+          },
+          {
+            "chinese": "外国学生很多。",
+            "pinyin": "Wàiguó xuéshēng hěnduō.",
+            "english": "There are many foreign students."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 3 差不多 Almost Alike",
+        "rate": 4,
+        "sentences": [
+          {
+            "chinese": "学校有很多外国学生，是吗？",
+            "pinyin": "Xuéxiào yǒu hěn duō wàiguó xuéshēng, shì ma?",
+            "english": "There are many foreign students at the school, aren't there?"
+          },
+          {
+            "chinese": "是啊，有很多。",
+            "pinyin": "Shì a, yǒu hěn duō.",
+            "english": "Yes, there are a lot."
+          },
+          {
+            "chinese": "比本国学生还多吗？",
+            "pinyin": "Bǐ běnguó xuéshēng hái duō ma?",
+            "english": "More than local students?"
+          },
+          {
+            "chinese": "不，比本国学生少。",
+            "pinyin": "Bù, bǐ běnguó xuéshēng shǎo.",
+            "english": "No, less than local students."
+          },
+          {
+            "chinese": "男生跟女生一样多吗？",
+            "pinyin": "Nánshēng gēn nǚshēng yīyàng duō ma?",
+            "english": "Are there as many boys as girls?"
+          },
+          {
+            "chinese": "差不多一样多。",
+            "pinyin": "Chà bù duō yīyàng duō.",
+            "english": "Boys and girls are almost the same amount."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 4 简介 Introduction",
+        "rate": 5,
+        "sentences": [
+          {
+            "chinese": "请问贵姓？",
+            "pinyin": "Qǐng wèn guì xìng?",
+            "english": "May I ask your name?"
+          },
+          {
+            "chinese": "我姓王，叫世平。",
+            "pinyin": "Wǒ xìng wáng, jiào shì píng.",
+            "english": "My last name is Wang, my first name is Shiping."
+          },
+          {
+            "chinese": "我叫林大中，那位努什是谁？",
+            "pinyin": "Wǒ jiào líndàzhōng, nà wèi nǔ shén shì shéi?",
+            "english": "I am called Lin Dazhong. Who is that lady?"
+          },
+          {
+            "chinese": "她是李有年的太太，来，我给你们介绍。",
+            "pinyin": "Tā shì lǐ yǒunián de tàitài, lái, wǒ gěi nǐmen jièshào.",
+            "english": "She is Mrs. Li, You Nian's wife. Come, let me introduce you."
+          },
+          {
+            "chinese": "我叫林大中，是幼年的同学。",
+            "pinyin": "Wǒ jiào lín dà zhōng, shì yòu nián de tóngxué.",
+            "english": "My name is Lin Dazhong, I am a childhood friend."
+          },
+          {
+            "chinese": "很高兴认识你。",
+            "pinyin": "Hěn gāoxìng rènshí nǐ.",
+            "english": "Nice to meet you."
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 5 学了多久了 How long have you studied?",
+        "rate": 6,
+        "sentences": [
+          {
+            "chinese": "你学中文多久了？",
+            "pinyin": "Nǐ xué zhōngwén duō jiǔle?",
+            "english": "How long have you studied Chinese?"
+          },
+          {
+            "chinese": "我才学了两个月，你学了多久了？",
+            "pinyin": "Wǒ cái xué le liǎng gè yuè, nǐ xué le duō jiǔ le?",
+            "english": "I've only studied for two months. How long have you been studying?"
+          },
+          {
+            "chinese": "我已经学了三年了。",
+            "pinyin": "Wǒ yǐ jīng xuéle sān niánle.",
+            "english": "I have already studied for three years."
+          },
+          {
+            "chinese": "我还没学呢。",
+            "pinyin": "Wǒ hái me xué ne.",
+            "english": "I haven't started yet."
+          },
+          {
+            "chinese": "没关系，你可以到这里来学。",
+            "pinyin": "Méiguānxì, nǐ kě yǐ dào zhè lǐ lái xué.",
+            "english": "That's okay, you can come here to learn."
+          }
+        ]
+      }
+    ]
+  }

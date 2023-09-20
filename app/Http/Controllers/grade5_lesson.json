@@ -1,0 +1,512 @@
+{
+    "Lesson 1 几个学生 How Many Students?": {
+      "Rate": 2,
+      "Content": [
+        {
+          "Chinese": "你有笔吗？",
+          "Pinyin": "Nǐ yǒu bǐ ma?",
+          "English": "Do you have a pen?"
+        },
+        {
+          "Chinese": "你有书吗？",
+          "Pinyin": "Nǐ yǒu shū ma",
+          "English": "Do you have a book?"
+        },
+        {
+          "Chinese": "你有什么笔？",
+          "Pinyin": "Nǐ yǒu shén me bǐ",
+          "English": "What kind of pen do you have?"
+        },
+        {
+          "Chinese": "你有什么书？",
+          "Pinyin": "Nǐ yǒu shén me shū",
+          "English": "What kind of book do you have?"
+        },
+        {
+          "Chinese": "几本书？",
+          "Pinyin": "Jǐ běn shū?",
+          "English": "How many books are there?"
+        },
+        {
+          "Chinese": "几支笔？",
+          "Pinyin": "Jǐ zhī bǐ",
+          "English": "How many pens are there?"
+        },
+        {
+          "Chinese": "你有几本书？",
+          "Pinyin": "Nǐ yǒu jǐ běn shū",
+          "English": "How many books do you have?"
+        },
+        {
+          "Chinese": "你有几支笔？",
+          "Pinyin": "Nǐ yǒu jǐ zhī bǐ",
+          "English": "How many pens do you have?"
+        },
+        {
+          "Chinese": "两个",
+          "Pinyin": "Liǎng gè",
+          "English": "Two"
+        },
+        {
+          "Chinese": "几个",
+          "Pinyin": "Jǐ gè",
+          "English": "A few"
+        },
+        {
+          "Chinese": "个个",
+          "Pinyin": "gè ge",
+          "English": "Each one"
+        },
+        {
+          "Chinese": "你有几个学生？",
+          "Pinyin": "Nǐ yǒu jǐ gè xué shēng",
+          "English": "How many students do you have?"
+        },
+        {
+          "Chinese": "我有十二个学生。",
+          "Pinyin": "Wǒ yǒu shí èr gè xué shēng",
+          "English": "I have twelve students."
+        },
+        {
+          "Chinese": "个个学生都用功。",
+          "Pinyin": "Gè gè xué shēng dōu yòng gōng",
+          "English": "Each one of the students works hard."
+        },
+        {
+          "Chinese": "大学",
+          "Pinyin": "Dà xué",
+          "English": "University"
+        },
+        {
+          "Chinese": "中学",
+          "Pinyin": "Zhōng xué",
+          "English": "Middle school"
+        },
+        {
+          "Chinese": "小学",
+          "Pinyin": "Xiǎo xué",
+          "English": "Elementary school"
+        },
+        {
+          "Chinese": "大学校",
+          "Pinyin": "Dà xué xiào",
+          "English": "Big school"
+        },
+        {
+          "Chinese": "小学校",
+          "Pinyin": "Xiǎo xué xiào",
+          "English": "Small school"
+        },
+        {
+          "Chinese": "一定",
+          "Pinyin": "Yuēdìng",
+          "English": "Definitely"
+        },
+        {
+          "Chinese": "不一定",
+          "Pinyin": "Bù yī dìng",
+          "English": "Not necessarily"
+        },
+        {
+          "Chinese": "他一定是老师。",
+          "Pinyin": "Tā yī dìng shì lǎo shī",
+          "English": "He is definitely the teacher."
+        },
+        {
+          "Chinese": "他一定会说中文。",
+          "Pinyin": "Tā yī dìng huì shuō zhōngwén",
+          "English": "He definitely can speak Chinese."
+        },
+        {
+          "Chinese": "好学生一定是男生吗？",
+          "Pinyin": "Hǎo xué shēng yī dìng shì nán shēng ma?",
+          "English": "Are good students necessarily boys?"
+        },
+        {
+          "Chinese": "不一定，有男的，有女的。",
+          "Pinyin": "Bù yī dìng, yǒu nán de, yǒu nǚ de.",
+          "English": "Not necessarily, Some are boys, and some are girls."
+        }
+      ]
+    },
+    "Lesson 2 学 校  真 大 The School Is Really Big": {
+      "Rate": 3,
+      "Content": [
+        {
+          "Chinese": "一所学校",
+          "Pinyin": "Yī suǒ xuéxiào",
+          "English": "A school"
+        },
+        {
+          "Chinese": "一栋房子",
+          "Pinyin": "Yī dòng fángzi",
+          "English": "A house"
+        },
+        {
+          "Chinese": "这个房子非常好",
+          "Pinyin": "Zhè ge fáng zi fēi cháng hǎo",
+          "English": "This house is very good"
+        },
+        {
+          "Chinese": "那所学校很大",
+          "Pinyin": "Nà suǒ xuéxiào hěn dà",
+          "English": "That school is big"
+        },
+        {
+          "Chinese": "很多",
+          "Pinyin": "Hěnduō",
+          "English": "A lot of"
+        },
+        {
+          "Chinese": "很少",
+          "Pinyin": "Hěn shǎo",
+          "English": "Little, few"
+        },
+        {
+          "Chinese": "多少",
+          "Pinyin": "Duōshǎo",
+          "English": "How many"
+        },
+        {
+          "Chinese": "或多",
+          "Pinyin": "Huò duō",
+          "English": "More or less"
+        },
+        {
+          "Chinese": "我的书数量很少",
+          "Pinyin": "Wǒ de shū shù liàng hěn shǎo",
+          "English": "The number of my books is very few"
+        },
+        {
+          "Chinese": "我的学生很多",
+          "Pinyin": "Wǒ de xuéshēng hěn duō",
+          "English": "I have a lot of students"
+        },
+        {
+          "Chinese": "你家有多少人？",
+          "Pinyin": "Nǐ jiā yǒu duō shǎo rén?",
+          "English": "How many people are there in your family?"
+        },
+        {
+          "Chinese": "我家有五口人。",
+          "Pinyin": "Wǒ jiā yǒu wǔ kǒu rén.",
+          "English": "There are five people in my family."
+        },
+        {
+          "Chinese": "大学有多少学生？",
+          "Pinyin": "Dàxué yǒu duōshǎo xuéshēng?",
+          "English": "How many students are there in the university?"
+        },
+        {
+          "Chinese": "大学有一万多学生。",
+          "Pinyin": "Dàxué yǒu yī wàn duō xuéshēng.",
+          "English": "There are more than ten thousand students in the university."
+        },
+        {
+          "Chinese": "你家有多少口人？",
+          "Pinyin": "Nǐ jiā yǒu duōshǎo kǒu rén?",
+          "English": "How many family members are there in your family?"
+        },
+        {
+          "Chinese": "我家有五口人。",
+          "Pinyin": "Wǒ jiā yǒu wǔ kǒu rén.",
+          "English": "There are five family members in my family."
+        },
+        {
+          "Chinese": "大学有多少学生？",
+          "Pinyin": "Dàxué yǒu duōshǎo xuéshēng?",
+          "English": "How many students are there in the university?"
+        },
+        {
+          "Chinese": "大学有一万多学生。",
+          "Pinyin": "Dàxué yǒu yī wàn duō xuéshēng.",
+          "English": "There are more than ten thousand students in the university."
+        },
+        {
+          "Chinese": "他家有几口人？",
+          "Pinyin": "Tā jiā yǒu jǐ kǒu rén?",
+          "English": "How many family members are there in his family?"
+        },
+        {
+          "Chinese": "他家有四口人。",
+          "Pinyin": "Tā jiā yǒu sì kǒu rén.",
+          "English": "There are four family members in his family."
+        }
+      ]
+    },
+    "Lesson 3 爷爷的故事 Grandfather's Story": {
+      "Rate": 3,
+      "Content": [
+        {
+          "Chinese": "爷爷的故事",
+          "Pinyin": "Yéyé de gùshì",
+          "English": "Grandfather's story"
+        },
+        {
+          "Chinese": "孙子的生日",
+          "Pinyin": "Sūnzi de shēngrì",
+          "English": "Grandson's birthday"
+        },
+        {
+          "Chinese": "孙子的礼物",
+          "Pinyin": "Sūnzi de lǐwù",
+          "English": "Grandson's gift"
+        },
+        {
+          "Chinese": "孙子的朋友",
+          "Pinyin": "Sūnzi de péngyǒu",
+          "English": "Grandson's friend"
+        },
+        {
+          "Chinese": "爷爷给孙子一个故事书",
+          "Pinyin": "Yéyé gěi sūnzi yī gè gùshì shū",
+          "English": "Grandfather gives his grandson a storybook"
+        },
+        {
+          "Chinese": "孙子很高兴",
+          "Pinyin": "Sūnzi hěn gāoxìng",
+          "English": "Grandson is very happy"
+        },
+        {
+          "Chinese": "故事书",
+          "Pinyin": "Gùshì shū",
+          "English": "Storybook"
+        },
+        {
+          "Chinese": "生日礼物",
+          "Pinyin": "Shēngrì lǐwù",
+          "English": "Birthday gift"
+        },
+        {
+          "Chinese": "这个故事书很有意思",
+          "Pinyin": "Zhège gùshì shū hěn yǒu yìsī",
+          "English": "This storybook is very interesting"
+        },
+        {
+          "Chinese": "他的朋友也喜欢这个故事书",
+          "Pinyin": "Tā de péngyǒu yě xǐhuān zhège gùshì shū",
+          "English": "His friend also likes this storybook"
+        },
+        {
+          "Chinese": "故事书很漂亮",
+          "Pinyin": "Gùshì shū hěn piàoliàng",
+          "English": "The storybook is very beautiful"
+        },
+        {
+          "Chinese": "孙子非常高兴",
+          "Pinyin": "Sūnzi fēicháng gāoxìng",
+          "English": "Grandson is extremely happy"
+        },
+        {
+          "Chinese": "爷爷也很高兴",
+          "Pinyin": "Yéyé yě hěn gāoxìng",
+          "English": "Grandfather is also very happy"
+        },
+        {
+          "Chinese": "故事书很有意思",
+          "Pinyin": "Gùshì shū hěn yǒu yìsī",
+          "English": "The storybook is very interesting"
+        },
+        {
+          "Chinese": "他的朋友也喜欢这个故事书",
+          "Pinyin": "Tā de péngyǒu yě xǐhuān zhège gùshì shū",
+          "English": "His friend also likes this storybook"
+        },
+        {
+          "Chinese": "故事书很漂亮",
+          "Pinyin": "Gùshì shū hěn piàoliàng",
+          "English": "The storybook is very beautiful"
+        },
+        {
+          "Chinese": "孙子非常高兴",
+          "Pinyin": "Sūnzi fēicháng gāoxìng",
+          "English": "Grandson is extremely happy"
+        },
+        {
+          "Chinese": "爷爷也很高兴",
+          "Pinyin": "Yéyé yě hěn gāoxìng",
+          "English": "Grandfather is also very happy"
+        }
+      ]
+    },
+    "Lesson 4 听音乐 Listening to Music": {
+      "Rate": 3,
+      "Content": [
+        {
+          "Chinese": "听音乐",
+          "Pinyin": "Tīng yīnyuè",
+          "English": "Listening to music"
+        },
+        {
+          "Chinese": "弟弟听音乐",
+          "Pinyin": "Dìdi tīng yīnyuè",
+          "English": "Younger brother is listening to music"
+        },
+        {
+          "Chinese": "弟弟非常高兴",
+          "Pinyin": "Dìdi fēicháng gāoxìng",
+          "English": "Younger brother is very happy"
+        },
+        {
+          "Chinese": "听音乐非常好听",
+          "Pinyin": "Tīng yīnyuè fēicháng hǎotīng",
+          "English": "Listening to music is very pleasant"
+        },
+        {
+          "Chinese": "音乐",
+          "Pinyin": "Yīnyuè",
+          "English": "Music"
+        },
+        {
+          "Chinese": "好听",
+          "Pinyin": "Hǎotīng",
+          "English": "Pleasant to listen to"
+        },
+        {
+          "Chinese": "不好听",
+          "Pinyin": "Bù hǎotīng",
+          "English": "Not pleasant to listen to"
+        },
+        {
+          "Chinese": "歌",
+          "Pinyin": "Gē",
+          "English": "Song"
+        },
+        {
+          "Chinese": "这首歌很好听",
+          "Pinyin": "Zhè shǒu gē hěn hǎotīng",
+          "English": "This song is very pleasant to listen to"
+        },
+        {
+          "Chinese": "那首歌不好听",
+          "Pinyin": "Nà shǒu gē bù hǎotīng",
+          "English": "That song is not pleasant to listen to"
+        },
+        {
+          "Chinese": "音乐会",
+          "Pinyin": "Yīnyuè huì",
+          "English": "Concert"
+        },
+        {
+          "Chinese": "今天晚上有音乐会",
+          "Pinyin": "Jīntiān wǎnshàng yǒu yīnyuè huì",
+          "English": "There is a concert tonight"
+        },
+        {
+          "Chinese": "哥哥不去音乐会",
+          "Pinyin": "Gēgē bù qù yīnyuè huì",
+          "English": "Big brother is not going to the concert"
+        },
+        {
+          "Chinese": "音乐很动听",
+          "Pinyin": "Yīnyuè hěn dòngtīng",
+          "English": "The music is very moving"
+        },
+        {
+          "Chinese": "哥哥非常喜欢音乐",
+          "Pinyin": "Gēgē fēicháng xǐhuān yīnyuè",
+          "English": "Big brother really likes music"
+        },
+        {
+          "Chinese": "音乐非常动听",
+          "Pinyin": "Yīnyuè fēicháng dòngtīng",
+          "English": "The music is extremely moving"
+        },
+        {
+          "Chinese": "哥哥非常喜欢音乐",
+          "Pinyin": "Gēgē fēicháng xǐhuān yīnyuè",
+          "English": "Big brother really likes music"
+        }
+      ]
+    },
+    "Lesson 5 看书 Reading a Book": {
+      "Rate": 3,
+      "Content": [
+        {
+          "Chinese": "看书",
+          "Pinyin": "Kàn shū",
+          "English": "Reading a book"
+        },
+        {
+          "Chinese": "姐姐看书",
+          "Pinyin": "Jiějiě kàn shū",
+          "English": "Big sister is reading a book"
+        },
+        {
+          "Chinese": "姐姐看的书很有意思",
+          "Pinyin": "Jiějiě kàn de shū hěn yǒu yìsī",
+          "English": "The book that big sister is reading is very interesting"
+        },
+        {
+          "Chinese": "书",
+          "Pinyin": "Shū",
+          "English": "Book"
+        },
+        {
+          "Chinese": "有意思",
+          "Pinyin": "Yǒu yìsī",
+          "English": "Interesting"
+        },
+        {
+          "Chinese": "无聊",
+          "Pinyin": "Wúliáo",
+          "English": "Boring"
+        },
+        {
+          "Chinese": "姐姐读的书很无聊",
+          "Pinyin": "Jiějiě dú de shū hěn wúliáo",
+          "English": "The book that big sister is reading is very boring"
+        },
+        {
+          "Chinese": "小说",
+          "Pinyin": "Xiǎoshuō",
+          "English": "Novel"
+        },
+        {
+          "Chinese": "这本小说很有意思",
+          "Pinyin": "Zhè běn xiǎoshuō hěn yǒu yìsī",
+          "English": "This novel is very interesting"
+        },
+        {
+          "Chinese": "那本小说很无聊",
+          "Pinyin": "Nà běn xiǎoshuō hěn wúliáo",
+          "English": "That novel is very boring"
+        },
+        {
+          "Chinese": "图书馆",
+          "Pinyin": "Túshū guǎn",
+          "English": "Library"
+        },
+        {
+          "Chinese": "今天晚上去图书馆",
+          "Pinyin": "Jīntiān wǎnshàng qù túshū guǎn",
+          "English": "Going to the library tonight"
+        },
+        {
+          "Chinese": "弟弟不想去图书馆",
+          "Pinyin": "Dìdi bù xiǎng qù túshū guǎn",
+          "English": "Younger brother doesn't want to go to the library"
+        },
+        {
+          "Chinese": "这本书很好看",
+          "Pinyin": "Zhè běn shū hěn hǎokàn",
+          "English": "This book is very good"
+        },
+        {
+          "Chinese": "那本书很难看",
+          "Pinyin": "Nà běn shū hěn nánkàn",
+          "English": "That book is very bad"
+        },
+        {
+          "Chinese": "这本书很好看",
+          "Pinyin": "Zhè běn shū hěn hǎokàn",
+          "English": "This book is very good"
+        },
+        {
+          "Chinese": "那本书很难看",
+          "Pinyin": "Nà běn shū hěn nánkàn",
+          "English": "That book is very bad"
+        }
+      ]
+    }
+  }
