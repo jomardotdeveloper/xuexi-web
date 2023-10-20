@@ -24,18 +24,6 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach ($grade5 as $key => $value)
-                            <tr>
-                                <td class="font-weight-bold text-dark">{{ $value["question"]  }}</td>
-                                @foreach ($value["choices"] as $choice_key => $choice_value)
-                                    @if ($choice_value['is_correct'])
-                                        <td  class="text-success">{{ $choice_value["choice"] }}</td>
-                                    @else
-                                        <td class="text-dark">{{ $choice_value["choice"] }}</td>
-                                    @endif
-                                @endforeach
-                            </tr>
-                            @endforeach
                         </tbody>
                         <tfoot>
                             <th>Question</th>
@@ -69,18 +57,7 @@
                         </thead>
                         <tbody>
                             {{-- DATA STARTS HERE --}}
-                            @foreach ($grade6 as $key => $value)
-                            <tr>
-                                <td class="font-weight-bold text-dark">{{ $value["question"]  }}</td>
-                                @foreach ($value["choices"] as $choice_key => $choice_value)
-                                    @if ($choice_value['is_correct'])
-                                        <td  class="text-success">{{ $choice_value["choice"] }}</td>
-                                    @else
-                                        <td class="text-dark">{{ $choice_value["choice"] }}</td>
-                                    @endif
-                                @endforeach
-                            </tr>
-                            @endforeach
+
                             {{-- DATA ENDS HERE --}}
                         </tbody>
                         <tfoot>

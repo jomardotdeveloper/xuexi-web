@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Exception;
 use Illuminate\Http\Request;
 use Kreait\Firebase\Factory;
 
@@ -17,13 +18,157 @@ class FirebaseController extends Controller
         $this->database = $firebase->createDatabase();
     }
     public function create() {
-        $this->storeQuizzes();
-        $this->storeAssessments();
-        $this->storeLessons();
-        $this->storeConversations();
-        $this->clearFirebase();
-        $this->createInitialAdmin();
+        $lesson_str = file_get_contents(__DIR__.'/Lessons.csv');
+        $lessons = explode("\n", $lesson_str);
+
+        $reference = $this->database->getReference('LessonsV2');
+        $reference->remove();
+
+
+        foreach($lessons as $lesson) {
+            if(!$lesson)
+                break;
+            $lesson_to_explode = explode(",", $lesson);
+            $lesson_to_store = [
+                "name" => $lesson_to_explode[0],
+                "number" => $lesson_to_explode[1],
+                "category" => $lesson_to_explode[2],
+                "rate" => $lesson_to_explode[3],
+                "grade_level" => $lesson_to_explode[4],
+            ];
+
+            $this->storeData($this->database,
+                             "LessonsV2",
+                             $lesson_to_store);
+
+            $lesson_item_str = file_get_contents(__DIR__.'/LessonItemsV2.csv');
+            $lesson_items = explode("\n", $lesson_item_str);
+
+            $reference = $this->database->getReference('LessonItemsV2');
+            $reference->remove();
+
+            foreach($lesson_items as $lesson_item) {
+                if(!$lesson_item)
+                    break;
+
+                $lesson_item_to_explode = explode(",", $lesson_item);
+
+                $lesson_item_to_store = [
+                    "english" => $lesson_item_to_explode[0],
+                    "chinese" => $lesson_item_to_explode[1],
+                    "chinese_character" => $lesson_item_to_explode[2],
+                    "rate" => $lesson_item_to_explode[3],
+                    "number" => $lesson_item_to_explode[4],
+                    "category" => $lesson_item_to_explode[5],
+                    "grade_level" => $lesson_item_to_explode[6],
+                ];
+
+                $this->storeData($this->database,
+                                 "LessonItemsV2",
+                                 $lesson_item_to_store);
+            }
+
+            $quiz_str = file_get_contents(__DIR__.'/Quizzes.csv');
+            $quizzes = explode("\n", $quiz_str);
+
+            $reference = $this->database->getReference('QuizzesV2');
+            $reference->remove();
+
+            foreach($quizzes as $quiz) {
+                if(!$quiz)
+                    break;
+                $quiz_to_explode = explode(",", $quiz);
+                $quiz_to_store = [
+                    "question" => $quiz_to_explode[0],
+                    "quiz_number" => $quiz_to_explode[1],
+                    "lesson_number" => $quiz_to_explode[2],
+                    "grade_level" => $quiz_to_explode[3],
+                    "type" => $quiz_to_explode[4],
+                    "choice1" => "N/A",
+                    "choice2" => "N/A",
+                    "choice3" => "N/A",
+                    "choice4" => "N/A",
+                    "answer" => $quiz_to_explode[5]
+                ];
+
+                if($quiz_to_explode == "Multiple choice") {
+                    $quiz_to_store["choice1"] = $quiz_to_explode[6];
+                    $quiz_to_store["choice2"] = $quiz_to_explode[7];
+                    $quiz_to_store["choice3"] = $quiz_to_explode[8];
+                    $quiz_to_store["choice4"] = $quiz_to_explode[9];
+                } else if ($quiz_to_explode == "True or False") {
+                    $quiz_to_store["choice1"] = "True";
+                    $quiz_to_store["choice2"] = "False";
+                }
+
+                $this->storeData($this->database,
+                                 "QuizzesV2",
+                                 $quiz_to_store);
+            }
+
+            $assessment_str = file_get_contents(__DIR__.'/Assessments.csv');
+            $assessments = explode("\n", $assessment_str);
+
+            $reference = $this->database->getReference('AssessmentsV2');
+            $reference->remove();
+
+            foreach($assessments as $assessment) {
+                if(!$assessment)
+                    break;
+                try{
+                    $assessment_to_explode = explode(",", $assessment);
+                    $assessment_to_store = [
+                        "question" => $assessment_to_explode[0],
+                        "grade_level" => $assessment_to_explode[1],
+                        "type" => $assessment_to_explode[2],
+                        "answer" => $assessment_to_explode[3],
+                        "choice1" => "N/A",
+                        "choice2" => "N/A",
+                        "choice3" => "N/A",
+                        "choice4" => "N/A",
+                        "rate" => $assessment_to_explode[8],
+                    ];
+
+                    if($assessment_to_explode == "Multiple choice") {
+                        $assessment_to_store["choice1"] = $assessment_to_explode[4];
+                        $assessment_to_store["choice2"] = $assessment_to_explode[5];
+                        $assessment_to_store["choice3"] = $assessment_to_explode[6];
+                        $assessment_to_store["choice4"] = $assessment_to_explode[7];
+                    } else if ($assessment_to_explode == "True or False") {
+                        $assessment_to_store["choice1"] = "True";
+                        $assessment_to_store["choice2"] = "False";
+                    }
+
+                    $this->storeData($this->database,
+                                    "AssessmentsV2",
+                                    $assessment_to_store);
+                }catch(Exception $e){
+                    dd($assessment_to_explode);
+                }
+            }
+
+
+        }
+
+        // dd(explode("\n",$lessons));
+        // dd(explode("\n"))
+        // $this->storeQuizzes();
+        // $this->storeAssessments();
+        // $this->storeLessons();
+        // $this->storeConversations();
+        // $this->clearFirebase();
+        // $this->createInitialAdmin();
     }
+
+
+    // V2
+    public function storeLesson2 () {
+        $grade6 = file_get_contents(__DIR__.'/grade6_lesson.json');
+        $grade6 = json_decode($grade6, true);
+        $grade5 = file_get_contents(__DIR__.'/grade5_lesson.json');
+        $grade5 = json_decode($grade5, true);
+    }
+
 
     private function clearFirebase() {
         $reference = $this->database->getReference('Admin');
