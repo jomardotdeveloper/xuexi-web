@@ -12,6 +12,15 @@ class Controller extends BaseController
 
 
     public function storeData($database, $table, $data) {
+        if ($table == "Student") {
+            $data['current_lesson'] = 0;
+            $data['assessment_score'] = 0;
+            $data['is_passed_lesson_1'] = 0;
+            $data['is_passed_lesson_2'] = 0;
+            $data['is_passed_lesson_3'] = 0;
+            $data['is_passed_lesson_4'] = 0;
+        }
+
         $database->getReference($table)
         ->push($data);
     }

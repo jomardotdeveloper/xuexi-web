@@ -17,6 +17,8 @@
                             {{-- COLUMNS STARTS HERE --}}
                             <tr>
                                 <th>Question</th>
+                                <th>Type</th>
+                                <th>Answer</th>
                                 <th>Option 1</th>
                                 <th>Option 2</th>
                                 <th>Option 3</th>
@@ -24,9 +26,22 @@
                             </tr>
                         </thead>
                         <tbody>
+                            @foreach ($grade5 as $data)
+                                <tr>
+                                    <td>{{ $data['question'] }}</td>
+                                    <td>{{ $data['type'] }}</td>
+                                    <td>{{ $data['answer'] }}</td>
+                                    <td>{{ $data['choice1'] }}</td>
+                                    <td>{{ $data['choice2'] }}</td>
+                                    <td>{{ $data['choice3'] }}</td>
+                                    <td>{{ $data['choice4'] }}</td>
+                                </tr>
+                            @endforeach
                         </tbody>
                         <tfoot>
                             <th>Question</th>
+                            <th>Type</th>
+                            <th>Answer</th>
                             <th>Option 1</th>
                             <th>Option 2</th>
                             <th>Option 3</th>
@@ -49,6 +64,8 @@
                             {{-- COLUMNS STARTS HERE --}}
                             <tr>
                                 <th>Question</th>
+                                <th>Type</th>
+                                <th>Answer</th>
                                 <th>Option 1</th>
                                 <th>Option 2</th>
                                 <th>Option 3</th>
@@ -56,12 +73,22 @@
                             </tr>
                         </thead>
                         <tbody>
-                            {{-- DATA STARTS HERE --}}
-
-                            {{-- DATA ENDS HERE --}}
+                            @foreach ($grade6 as $data)
+                                <tr style="color:gray;">
+                                    <td>{{ $data['question'] }}</td>
+                                    <td>{{ $data['type'] }}</td>
+                                    <td>{{ $data['answer'] }}</td>
+                                    <td>{{ $data['choice1'] }}</td>
+                                    <td>{{ $data['choice2'] }}</td>
+                                    <td>{{ $data['choice3'] }}</td>
+                                    <td>{{ $data['choice4'] }}</td>
+                                </tr>
+                            @endforeach
                         </tbody>
                         <tfoot>
                             <th>Question</th>
+                            <th>Type</th>
+                            <th>Answer</th>
                             <th>Option 1</th>
                             <th>Option 2</th>
                             <th>Option 3</th>

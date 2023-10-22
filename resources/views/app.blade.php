@@ -42,7 +42,7 @@
             Nav header start
         ***********************************-->
         <div class="nav-header">
-            <a href="index.html" class="brand-logo">
+            <a href="#" class="brand-logo">
                 <img class="logo-abbr" src="{{ asset('images/logo.png') }}" alt="">
             </a>
 

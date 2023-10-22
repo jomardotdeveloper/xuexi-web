@@ -91,12 +91,12 @@ class FirebaseController extends Controller
                     "answer" => $quiz_to_explode[5]
                 ];
 
-                if($quiz_to_explode == "Multiple choice") {
+                if($quiz_to_explode[4] == "Multiple Choice") {
                     $quiz_to_store["choice1"] = $quiz_to_explode[6];
                     $quiz_to_store["choice2"] = $quiz_to_explode[7];
                     $quiz_to_store["choice3"] = $quiz_to_explode[8];
                     $quiz_to_store["choice4"] = $quiz_to_explode[9];
-                } else if ($quiz_to_explode == "True or False") {
+                } else if ($quiz_to_explode[4] == "True or False") {
                     $quiz_to_store["choice1"] = "True";
                     $quiz_to_store["choice2"] = "False";
                 }
@@ -129,12 +129,12 @@ class FirebaseController extends Controller
                         "rate" => $assessment_to_explode[8],
                     ];
 
-                    if($assessment_to_explode == "Multiple choice") {
+                    if($assessment_to_explode[2] == "Multiple Choice") {
                         $assessment_to_store["choice1"] = $assessment_to_explode[4];
                         $assessment_to_store["choice2"] = $assessment_to_explode[5];
                         $assessment_to_store["choice3"] = $assessment_to_explode[6];
                         $assessment_to_store["choice4"] = $assessment_to_explode[7];
-                    } else if ($assessment_to_explode == "True or False") {
+                    } else if ($assessment_to_explode[2] == "True or False") {
                         $assessment_to_store["choice1"] = "True";
                         $assessment_to_store["choice2"] = "False";
                     }
@@ -150,6 +150,45 @@ class FirebaseController extends Controller
 
         }
 
+        $reference = $this->database->getReference('Admin');
+        $reference->remove();
+
+        $reference = $this->database->getReference('Student');
+        $reference->remove();
+
+        $postData = [
+            "first_name" => "John",
+            "middle_name" =>  "D",
+            "last_name" => "Doe",
+            "gender" =>  "Male",
+            "grade_level" => "Grade 5",
+            "email" => "admin@superuser.com",
+            "password" => "123",
+        ];
+
+        $this->storeData($this->database,
+                         "Admin",
+                         $postData);
+
+        $studentData = [
+            "first_name" => "John",
+            "middle_name" =>  "D",
+            "last_name" => "Doe",
+            "gender" =>  "Male",
+            "grade_level" => "Grade 5",
+            "email" => "student@test.com",
+            "password" => "123",
+        ];
+
+        $this->storeData($this->database,
+                         "Student",
+                         $studentData);
+
+        $reference = $this->database->getReference('TakenAssessmentsV2');
+        $reference->remove();
+
+        $reference = $this->database->getReference('TakenQuizzesV2');
+        $reference->remove();
         // dd(explode("\n",$lessons));
         // dd(explode("\n"))
         // $this->storeQuizzes();

@@ -16,21 +16,15 @@ class QuizController extends Controller
         $this->database = $firebase->createDatabase();
     }
     public function index() {
-        $all_quiz = $this->database->getReference('Quiz')->getSnapshot()->getValue();
+        $all_quiz = $this->database->getReference('QuizzesV2')->getSnapshot()->getValue();
         $grade5 = [];
         $grade6 = [];
 
         foreach ($all_quiz as $key => $value) {
             if ($value['grade_level'] == '5') {
-                foreach($value["questions"] as $question) {
-                    $question["lesson"] = $value["lesson"];
-                    array_push($grade5, $question);
-                }
+                array_push($grade5, $value);
             } else {
-                foreach($value["questions"] as $question) {
-                    $question["lesson"] = $value["lesson"];
-                    array_push($grade6, $question);
-                }
+                array_push($grade6, $value);
             }
         }
         return view('quiz', compact('grade5', 'grade6'));

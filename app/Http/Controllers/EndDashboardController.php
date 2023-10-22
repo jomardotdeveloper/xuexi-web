@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Kreait\Firebase\Factory;
 
+
 class EndDashboardController extends Controller
 {
     private $database;
@@ -20,8 +21,17 @@ class EndDashboardController extends Controller
     public function index() {
         // REMOVE GRADE WORD IN GRADE LEVEL
         $grade_level_removed_grade = explode(" ", session('user')['grade_level'])[1];
-        $all_lessons = $this->getAllLessons($this->database, $grade_level_removed_grade);
+        // $all_lessons = $this->getAllLessons($this->database, $grade_level_removed_grade);
         $current_lesson = $this->getStudentCurrentLesson($this->database, session('user')['id']);
-        return view('end.dashboard', compact('current_lesson', 'all_lessons'));
+
+        $grade_lessons = [];
+        $lessons = $this->database->getReference('LessonsV2')->getSnapshot()->getValue();
+
+        foreach ($lessons as $lesson) {
+            if($lesson['grade_level'] == $grade_level_removed_grade) {
+                array_push($grade_lessons, $lesson);
+            }
+        }
+        return view('end.dashboardv2', compact('grade_lessons', 'current_lesson'));
     }
 }

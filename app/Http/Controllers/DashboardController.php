@@ -18,7 +18,6 @@ class DashboardController extends Controller
 
 
     public function index() {
-        // dd(session('user'));
         $student_counts = $this->database->getReference('Student')->getSnapshot()->numChildren();
         $teacher_counts = $this->database->getReference('Admin')->getSnapshot()->numChildren();
         return view('dashboard', compact('student_counts', 'teacher_counts'));

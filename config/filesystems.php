@@ -29,7 +29,10 @@ return [
     */
 
     'disks' => [
-
+        'speeches' => [
+            'driver' => 'local',
+            'root' => storage_path('app/public/speeches'),
+        ],
         'local' => [
             'driver' => 'local',
             'root' => storage_path('app'),

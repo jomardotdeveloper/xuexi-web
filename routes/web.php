@@ -19,7 +19,8 @@ use App\Http\Controllers\StudentController;
 |--------------------------------------------------------------------------
 | Web Routes
 |--------------------------------------------------------------------------
-|
+| ngrok http --domain=legible-ladybird-reasonably.ngrok-free.app http://127.0.0.1:8000
+| d7dfc5f5fd5c48cc85b20c234a31209a
 | Here is where you can register web routes for your application. These
 | routes are loaded by the RouteServiceProvider and all of them will
 | be assigned to the "web" middleware group. Make something great!

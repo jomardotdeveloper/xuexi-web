@@ -16,7 +16,9 @@
                         <thead>
                             {{-- COLUMNS STARTS HERE --}}
                             <tr>
-                                <th>Lesson</th>
+                                <th>Lesson #</th>
+                                <th>Type</th>
+                                <th>Answer</th>
                                 <th>Question</th>
                                 <th>Option 1</th>
                                 <th>Option 2</th>
@@ -25,24 +27,23 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach ($grade5 as $key => $value)
+                            @foreach ($grade5 as $data)
                             <tr>
-                                <td class="font-weight-bold text-dark">
-                                    {{ $value["lesson"] }}
-                                </td>
-                                <td class="font-weight-bold text-dark">{{ $value["question"]  }}</td>
-                                @foreach ($value["choices"] as $choice_key => $choice_value)
-                                    @if ($choice_value['is_correct'])
-                                        <td  class="text-success">{{ $choice_value["choice"] }}</td>
-                                    @else
-                                        <td class="text-dark">{{ $choice_value["choice"] }}</td>
-                                    @endif
-                                @endforeach
+                                <td>{{ $data['lesson_number'] }}</td>
+                                <td>{{ $data['question'] }}</td>
+                                <td>{{ $data['type'] }}</td>
+                                <td>{{ $data['answer'] }}</td>
+                                <td>{{ $data['choice1'] }}</td>
+                                <td>{{ $data['choice2'] }}</td>
+                                <td>{{ $data['choice3'] }}</td>
+                                <td>{{ $data['choice4'] }}</td>
                             </tr>
                             @endforeach
                         </tbody>
                         <tfoot>
-                            <th>Lesson</th>
+                            <th>Lesson #</th>
+                            <th>Type</th>
+                            <th>Answer</th>
                             <th>Question</th>
                             <th>Option 1</th>
                             <th>Option 2</th>
@@ -65,7 +66,9 @@
                         <thead>
                             {{-- COLUMNS STARTS HERE --}}
                             <tr>
-                                <th>Lesson</th>
+                                <th>Lesson #</th>
+                                <th>Type</th>
+                                <th>Answer</th>
                                 <th>Question</th>
                                 <th>Option 1</th>
                                 <th>Option 2</th>
@@ -75,25 +78,24 @@
                         </thead>
                         <tbody>
                             {{-- DATA STARTS HERE --}}
-                            @foreach ($grade6 as $key => $value)
-                            <tr>
-                                <td class="font-weight-bold text-dark">
-                                    {{ $value["lesson"] }}
-                                </td>
-                                <td class="font-weight-bold text-dark">{{ $value["question"]  }}</td>
-                                @foreach ($value["choices"] as $choice_key => $choice_value)
-                                    @if ($choice_value['is_correct'])
-                                        <td  class="text-success">{{ $choice_value["choice"] }}</td>
-                                    @else
-                                        <td class="text-dark">{{ $choice_value["choice"] }}</td>
-                                    @endif
-                                @endforeach
+                            @foreach ($grade6 as $data)
+                            <tr style="color:gray;">
+                                <td>{{ $data['lesson_number'] }}</td>
+                                <td>{{ $data['question'] }}</td>
+                                <td>{{ $data['type'] }}</td>
+                                <td>{{ $data['answer'] }}</td>
+                                <td>{{ $data['choice1'] }}</td>
+                                <td>{{ $data['choice2'] }}</td>
+                                <td>{{ $data['choice3'] }}</td>
+                                <td>{{ $data['choice4'] }}</td>
                             </tr>
                             @endforeach
                             {{-- DATA ENDS HERE --}}
                         </tbody>
                         <tfoot>
-                            <th>Lesson</th>
+                            <th>Lesson #</th>
+                            <th>Type</th>
+                            <th>Answer</th>
                             <th>Question</th>
                             <th>Option 1</th>
                             <th>Option 2</th>
