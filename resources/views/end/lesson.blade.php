@@ -138,10 +138,12 @@ $story_boards_5 = [
 谢谢老师的关心，我一定努力学习。"
 ];
 // $chosen = "";
-
+$folder_name = "g5";
 if (Session::get('user')['grade_level'] == "Grade 5") {
+    $folder_name = "g5";
     $chosen = $story_boards_5[intval($_GET['lesson_number']) - 1];
 } else {
+    $folder_name = "g6";
     $chosen = $story_boards_6[intval($_GET['lesson_number']) - 1];
 }
 @endphp
@@ -161,13 +163,16 @@ if (Session::get('user')['grade_level'] == "Grade 5") {
             @endif
         </a>
     </div>
+    @php
+        $idx = 1;
+    @endphp
     @foreach ($grade_lessons as $lesson)
     <div class="col-12">
         <div class="widget-stat card bg-success">
             <div class="card-body  p-4">
                 <div class="media">
                     <span class="mr-3">
-                        <i class="flaticon-381-diploma" onclick="speak(event)" data-message="{{ $lesson['chinese'] }}"></i>
+                        <i class="flaticon-381-diploma" onclick="speak(event)" data-message="{{ $lesson_number . "- " . $idx }}"></i>
                     </span>
                     <div class="media-body text-white text-right">
                         <p class="mb-1">Chinese Character: {{ $lesson['chinese_character'] }}</p>
@@ -180,13 +185,16 @@ if (Session::get('user')['grade_level'] == "Grade 5") {
             </div>
         </div>
     </div>
+    @php
+        $idx++;
+    @endphp
     @endforeach
     <div class="col-12">
         <div class="widget-stat card bg-success">
             <div class="card-body  p-4">
                 <div class="media">
                     <span class="mr-3">
-                        <i class="flaticon-381-diploma" onclick="speak(event)" data-message="{{ $chosen }}"></i>
+                        <i class="flaticon-381-diploma" onclick="speak(event)" data-message="{{ $lesson_number }}"></i>
                     </span>
                     <div class="media-body text-white text-right">
                         <p class="mb-1">Story: {{ $chosen }}</p>
@@ -219,12 +227,15 @@ if (Session::get('user')['grade_level'] == "Grade 5") {
     });
 
     function speak(event) {
-        var x = channel.trigger('client-my-event', {
-            message: 'Hello from React Native!',
-            // You can include any other data you want to send with the event
-        });
+        // var x = channel.trigger('client-my-event', {
+        //     message: 'Hello from React Native!',
+        //     // You can include any other data you want to send with the event
+        // });
 
-        console.log(x);
+        // console.log(x);
+        console.log(event.target.dataset.message);
+        var audio = new Audio('{{ asset($folder_name) }}' + "/" + event.target.dataset.message.toString() + ".mp3");
+        audio.play();
     }
 </script>
 @endpush

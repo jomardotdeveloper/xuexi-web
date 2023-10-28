@@ -30,9 +30,11 @@
                             @foreach ($grade5 as $data)
                             <tr>
                                 <td>{{ $data['lesson_number'] }}</td>
-                                <td>{{ $data['question'] }}</td>
+
                                 <td>{{ $data['type'] }}</td>
+
                                 <td>{{ $data['answer'] }}</td>
+                                <td>{{ $data['question'] }}</td>
                                 <td>{{ $data['choice1'] }}</td>
                                 <td>{{ $data['choice2'] }}</td>
                                 <td>{{ $data['choice3'] }}</td>
@@ -81,9 +83,10 @@
                             @foreach ($grade6 as $data)
                             <tr style="color:gray;">
                                 <td>{{ $data['lesson_number'] }}</td>
-                                <td>{{ $data['question'] }}</td>
+
                                 <td>{{ $data['type'] }}</td>
                                 <td>{{ $data['answer'] }}</td>
+                                <td>{{ $data['question'] }}</td>
                                 <td>{{ $data['choice1'] }}</td>
                                 <td>{{ $data['choice2'] }}</td>
                                 <td>{{ $data['choice3'] }}</td>

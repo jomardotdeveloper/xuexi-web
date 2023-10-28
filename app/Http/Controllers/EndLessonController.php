@@ -18,6 +18,7 @@ class EndLessonController extends Controller
     }
 
     public function index() {
+        // dd(asset('g5'));
         $grade_level_removed_grade = explode(" ", session('user')['grade_level'])[1];
         $lessons = $this->database->getReference('LessonItemsV2')->getSnapshot()->getValue();
         $lesson_number = $_GET['lesson_number'];
